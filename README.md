@@ -1,2 +1,3 @@
-# html-css2
+# html-css
+
 To explore HTML &amp; CSS
