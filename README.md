@@ -8,3 +8,8 @@ To explore HTML &amp; CSS
 
 - [https://www.freecodecamp.org/news/how-to-center-a-div-with-css-10-different-ways/](https://www.freecodecamp.org/news/how-to-center-a-div-with-css-10-different-ways/)<br>
 - [https://una.im/style-queries/](https://una.im/style-queries/)<br>
+
+## CSS
+- [https://jst.hashnode.dev/complete-css-flex-tutorial](https://jst.hashnode.dev/complete-css-flex-tutorial)<br>
+- [https://jst.hashnode.dev/css-grid-tutorial](https://jst.hashnode.dev/css-grid-tutorial)<br>
+- []()<br>
