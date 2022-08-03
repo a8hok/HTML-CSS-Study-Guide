@@ -13,3 +13,4 @@ To explore HTML &amp; CSS
 - [https://jst.hashnode.dev/complete-css-flex-tutorial](https://jst.hashnode.dev/complete-css-flex-tutorial)<br>
 - [https://jst.hashnode.dev/css-grid-tutorial](https://jst.hashnode.dev/css-grid-tutorial)<br>
 - [https://levelup.gitconnected.com/css-layout-patterns-5-f63dab322c6](https://levelup.gitconnected.com/css-layout-patterns-5-f63dab322c6)<br>
+- [https://blog.openreplay.com/understanding-css-positioning(https://blog.openreplay.com/understanding-css-positioning)
