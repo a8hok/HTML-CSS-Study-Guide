@@ -13,3 +13,4 @@ To explore HTML &amp; CSS
 - [https://blog.openreplay.com/understanding-css-positioning(https://blog.openreplay.com/understanding-css-positioning)
 - [https://www.freecodecamp.org/news/how-to-center-a-div-with-css-10-different-ways/](https://www.freecodecamp.org/news/how-to-center-a-div-with-css-10-different-ways/)<br>
 - [https://una.im/style-queries/](https://una.im/style-queries/)<br>
+- [https://www.freecodecamp.org/news/what-is-tailwind-css-a-beginners-guide/(https://www.freecodecamp.org/news/what-is-tailwind-css-a-beginners-guide/)<br>
