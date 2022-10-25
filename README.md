@@ -17,6 +17,7 @@ To explore HTML &amp; CSS
 - [https://www.freecodecamp.org/news/learn-css-in-11-hours/](https://www.freecodecamp.org/news/learn-css-in-11-hours/)<br>
 - [https://codedamn.com/news/frontend/css-grid](https://codedamn.com/news/frontend/css-grid)<br>
 - [https://blog.logrocket.com/a-new-guide-to-css-overflow/](https://blog.logrocket.com/a-new-guide-to-css-overflow/)<br/>
+- [https://www.smashingmagazine.com/2022/10/futuristic-css/](https://www.smashingmagazine.com/2022/10/futuristic-css/)<br>
 
 ## BEM
 - [https://daverupert.com/2022/08/modern-alternatives-to-bem/](https://daverupert.com/2022/08/modern-alternatives-to-bem/)<br>
