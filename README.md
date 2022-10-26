@@ -19,5 +19,8 @@ To explore HTML &amp; CSS
 - [https://blog.logrocket.com/a-new-guide-to-css-overflow/](https://blog.logrocket.com/a-new-guide-to-css-overflow/)<br/>
 - [https://www.smashingmagazine.com/2022/10/futuristic-css/](https://www.smashingmagazine.com/2022/10/futuristic-css/)<br>
 
+## CSS Hands-on
+- [https://www.hyperui.dev/components/ecommerce/carts](https://www.hyperui.dev/components/ecommerce/carts)<br>
+
 ## BEM
 - [https://daverupert.com/2022/08/modern-alternatives-to-bem/](https://daverupert.com/2022/08/modern-alternatives-to-bem/)<br>
