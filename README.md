@@ -18,6 +18,7 @@ To explore HTML &amp; CSS
 - [https://codedamn.com/news/frontend/css-grid](https://codedamn.com/news/frontend/css-grid)<br>
 - [https://blog.logrocket.com/a-new-guide-to-css-overflow/](https://blog.logrocket.com/a-new-guide-to-css-overflow/)<br/>
 - [https://www.smashingmagazine.com/2022/10/futuristic-css/](https://www.smashingmagazine.com/2022/10/futuristic-css/)<br>
+- [https://www.miriamsuzanne.com/2022/10/23/css-wizardry-critical-css/](https://www.miriamsuzanne.com/2022/10/23/css-wizardry-critical-css/)<br>
 
 ## CSS Hands-on
 - [https://www.hyperui.dev/components/ecommerce/carts](https://www.hyperui.dev/components/ecommerce/carts)<br>
