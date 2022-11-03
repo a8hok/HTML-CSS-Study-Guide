@@ -20,6 +20,9 @@ To explore HTML &amp; CSS
 - [https://www.smashingmagazine.com/2022/10/futuristic-css/](https://www.smashingmagazine.com/2022/10/futuristic-css/)<br>
 - [https://www.miriamsuzanne.com/2022/10/23/css-wizardry-critical-css/](https://www.miriamsuzanne.com/2022/10/23/css-wizardry-critical-css/)<br>
 
+## CSS Flex Box
+- [https://www.freecodecamp.org/news/css-flexbox-complete-guide/](https://www.freecodecamp.org/news/css-flexbox-complete-guide/)<br>
+
 ## CSS Hands-on
 - [https://www.hyperui.dev/components/ecommerce/carts](https://www.hyperui.dev/components/ecommerce/carts)<br>
 
