@@ -19,6 +19,7 @@ To explore HTML &amp; CSS
 - [https://blog.logrocket.com/a-new-guide-to-css-overflow/](https://blog.logrocket.com/a-new-guide-to-css-overflow/)<br/>
 - [https://www.smashingmagazine.com/2022/10/futuristic-css/](https://www.smashingmagazine.com/2022/10/futuristic-css/)<br>
 - [https://www.miriamsuzanne.com/2022/10/23/css-wizardry-critical-css/](https://www.miriamsuzanne.com/2022/10/23/css-wizardry-critical-css/)<br>
+- [https://www.freecodecamp.org/news/why-use-rem-to-set-font-size-in-css/](https://www.freecodecamp.org/news/why-use-rem-to-set-font-size-in-css/)<br>
 
 ## CSS Flex Box
 - [https://www.freecodecamp.org/news/css-flexbox-complete-guide/](https://www.freecodecamp.org/news/css-flexbox-complete-guide/)<br>
