@@ -29,3 +29,6 @@ To explore HTML &amp; CSS
 
 ## BEM
 - [https://daverupert.com/2022/08/modern-alternatives-to-bem/](https://daverupert.com/2022/08/modern-alternatives-to-bem/)<br>
+
+## Tailwind CSS
+- [https://www.freecodecamp.org/news/learn-tailwind-css/](https://www.freecodecamp.org/news/learn-tailwind-css/)<br>
