@@ -26,6 +26,7 @@ To explore HTML &amp; CSS
 - [https://dev.to/refine/rem-vs-em-everything-you-need-to-know-5342](https://dev.to/refine/rem-vs-em-everything-you-need-to-know-5342)<br>
 - [https://css-irl.info/2022-in-review/](https://css-irl.info/2022-in-review/)<br>
 - [https://ishadeed.com/article/conditional-css/](https://ishadeed.com/article/conditional-css/)<br>
+- [https://www.freecodecamp.org/news/grid-to-list-toggle-using-css-grid/](https://www.freecodecamp.org/news/grid-to-list-toggle-using-css-grid/)<br>
 
 ## CSS Flex Box
 - [https://www.freecodecamp.org/news/css-flexbox-complete-guide/](https://www.freecodecamp.org/news/css-flexbox-complete-guide/)<br>
