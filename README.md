@@ -31,6 +31,7 @@ To explore HTML &amp; CSS
 
 ## CSS Hands-on
 - [https://www.hyperui.dev/components/ecommerce/carts](https://www.hyperui.dev/components/ecommerce/carts)<br>
+- [https://12daysofweb.dev/](https://12daysofweb.dev/)<br>
 
 ## BEM
 - [https://daverupert.com/2022/08/modern-alternatives-to-bem/](https://daverupert.com/2022/08/modern-alternatives-to-bem/)<br>
