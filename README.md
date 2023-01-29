@@ -6,6 +6,9 @@ To explore HTML &amp; CSS
 - [https://www.freecodecamp.org/news/javascript-dom-manipulation/](https://www.freecodecamp.org/news/javascript-dom-manipulation/)<br>
 - [https://www.freecodecamp.org/news/what-is-the-dom-explained-in-plain-english/](https://www.freecodecamp.org/news/what-is-the-dom-explained-in-plain-english/)<br>
 
+## HTML
+- [https://code.tutsplus.com/tutorials/28-html5-features-tips-and-techniques-you-must-know--net-13520](https://code.tutsplus.com/tutorials/28-html5-features-tips-and-techniques-you-must-know--net-13520)<br>
+
 ## CSS
 - [https://jst.hashnode.dev/complete-css-flex-tutorial](https://jst.hashnode.dev/complete-css-flex-tutorial)<br>
 - [https://jst.hashnode.dev/css-grid-tutorial](https://jst.hashnode.dev/css-grid-tutorial)<br>
