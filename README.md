@@ -27,6 +27,7 @@ To explore HTML &amp; CSS
 - [https://css-irl.info/2022-in-review/](https://css-irl.info/2022-in-review/)<br>
 - [https://ishadeed.com/article/conditional-css/](https://ishadeed.com/article/conditional-css/)<br>
 - [https://www.freecodecamp.org/news/grid-to-list-toggle-using-css-grid/](https://www.freecodecamp.org/news/grid-to-list-toggle-using-css-grid/)<br>
+- [https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/)<br>
 
 ## CSS Flex Box
 - [https://www.freecodecamp.org/news/css-flexbox-complete-guide/](https://www.freecodecamp.org/news/css-flexbox-complete-guide/)<br>
