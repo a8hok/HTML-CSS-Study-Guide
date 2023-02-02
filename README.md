@@ -9,7 +9,7 @@ To explore HTML &amp; CSS
 ## HTML
 - [https://code.tutsplus.com/tutorials/28-html5-features-tips-and-techniques-you-must-know--net-13520](https://code.tutsplus.com/tutorials/28-html5-features-tips-and-techniques-you-must-know--net-13520)<br>
 
-## CSS
+## CSS Learn
 - [https://levelup.gitconnected.com/css-layout-patterns-5-f63dab322c6](https://levelup.gitconnected.com/css-layout-patterns-5-f63dab322c6)<br>
 - [https://blog.openreplay.com/understanding-css-positioning(https://blog.openreplay.com/understanding-css-positioning)
 - [https://www.freecodecamp.org/news/how-to-center-a-div-with-css-10-different-ways/](https://www.freecodecamp.org/news/how-to-center-a-div-with-css-10-different-ways/)<br>
@@ -24,6 +24,10 @@ To explore HTML &amp; CSS
 - [https://ishadeed.com/article/conditional-css/](https://ishadeed.com/article/conditional-css/)<br>
 - [https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/)<br>
 - [https://blog.openreplay.com/working-with-the-css-box-model/](https://blog.openreplay.com/working-with-the-css-box-model/)<br>
+
+## CSS Resources
+- [https://dev.to/lissy93/super-useful-css-resources-1ba3](https://dev.to/lissy93/super-useful-css-resources-1ba3)<br>
+
 
 ## CSS Flex Box
 - [https://www.freecodecamp.org/news/css-flexbox-complete-guide/](https://www.freecodecamp.org/news/css-flexbox-complete-guide/)<br>
