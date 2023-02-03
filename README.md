@@ -33,7 +33,7 @@ To explore HTML &amp; CSS
 ## CSS Flex Box
 - [https://www.freecodecamp.org/news/css-flexbox-complete-guide/](https://www.freecodecamp.org/news/css-flexbox-complete-guide/)<br>
 - [https://jst.hashnode.dev/complete-css-flex-tutorial](https://jst.hashnode.dev/complete-css-flex-tutorial)<br>
-- []()<br>
+- [https://codingfantasy.com/games](https://codingfantasy.com/games)<br>
 
 ## CSS Grid
 - [https://jst.hashnode.dev/css-grid-tutorial](https://jst.hashnode.dev/css-grid-tutorial)<br>
