@@ -39,6 +39,7 @@ To explore HTML &amp; CSS
 - [https://jst.hashnode.dev/css-grid-tutorial](https://jst.hashnode.dev/css-grid-tutorial)<br>
 - [https://codedamn.com/news/frontend/css-grid](https://codedamn.com/news/frontend/css-grid)<br>
 - [https://www.freecodecamp.org/news/grid-to-list-toggle-using-css-grid/](https://www.freecodecamp.org/news/grid-to-list-toggle-using-css-grid/)<br>
+- [https://blog.openreplay.com/working-with-the-css-grid/](https://blog.openreplay.com/working-with-the-css-grid/)<br>
 
 
 ## CSS Hands-on
