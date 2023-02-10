@@ -8,6 +8,7 @@ To explore HTML &amp; CSS
 
 ## HTML
 - [https://code.tutsplus.com/tutorials/28-html5-features-tips-and-techniques-you-must-know--net-13520](https://code.tutsplus.com/tutorials/28-html5-features-tips-and-techniques-you-must-know--net-13520)<br>
+- [https://blog.amenas.me/my-journey-of-2022-dev-retro-2022?deviceType=desktop](https://blog.amenas.me/my-journey-of-2022-dev-retro-2022?deviceType=desktop)<br>
 
 ## CSS Learn
 - [https://levelup.gitconnected.com/css-layout-patterns-5-f63dab322c6](https://levelup.gitconnected.com/css-layout-patterns-5-f63dab322c6)<br>
