@@ -31,6 +31,7 @@ To explore HTML &amp; CSS
 ## CSS Resources
 - [https://dev.to/lissy93/super-useful-css-resources-1ba3](https://dev.to/lissy93/super-useful-css-resources-1ba3)<br>
 - [https://webkit.org/blog/13813/try-css-nesting-today-in-safari-technology-preview/](https://webkit.org/blog/13813/try-css-nesting-today-in-safari-technology-preview/)<br>
+- [https://ishadeed.com/article/css-wishlist-2023/](https://ishadeed.com/article/css-wishlist-2023/)<br>
 
 
 ## CSS Flex Box
