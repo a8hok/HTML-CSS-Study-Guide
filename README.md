@@ -26,7 +26,6 @@ To explore HTML &amp; CSS
 - [https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/)<br>
 - [https://blog.openreplay.com/working-with-the-css-box-model/](https://blog.openreplay.com/working-with-the-css-box-model/)<br>
 - [https://blog.openreplay.com/introduction-to-pure-css/](https://blog.openreplay.com/introduction-to-pure-css/)<br>
-- [https://css-tricks.com/moving-backgrounds/](https://css-tricks.com/moving-backgrounds/)<br>
 - [https://blog.krsh.eu.org/the-art-of-css-positioning](https://blog.krsh.eu.org/the-art-of-css-positioning)<br>
 
 ## CSS Resources
@@ -58,9 +57,13 @@ To explore HTML &amp; CSS
 ## Tailwind CSS
 - [https://www.freecodecamp.org/news/learn-tailwind-css/](https://www.freecodecamp.org/news/learn-tailwind-css/)<br>
 - [https://www.freecodecamp.org/news/what-is-tailwind-css-a-beginners-guide/(https://www.freecodecamp.org/news/what-is-tailwind-css-a-beginners-guide/)<br>
+- [https://blog.logrocket.com/tailwind-css-dynamic-breakpoints-and-container-queries/](https://blog.logrocket.com/tailwind-css-dynamic-breakpoints-and-container-queries/)<br>
 
 ## Responsive
 - [https://css-tricks.com/fun-viewport-units/](https://css-tricks.com/fun-viewport-units/)<br>
 
 ## CSS tips and Tricks
 - [https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/](https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/)<br>
+- [https://www.builder.io/blog/css-tips-for-better-web-development](https://www.builder.io/blog/css-tips-for-better-web-development)<br>
+- [https://css-tricks.com/moving-backgrounds/](https://css-tricks.com/moving-backgrounds/)<br>
+
