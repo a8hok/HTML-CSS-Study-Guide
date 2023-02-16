@@ -61,6 +61,7 @@ To explore HTML &amp; CSS
 
 ## Responsive
 - [https://css-tricks.com/fun-viewport-units/](https://css-tricks.com/fun-viewport-units/)<br>
+- [https://dzone.com/articles/how-to-use-media-queries-in-css-for-responsive-design](https://dzone.com/articles/how-to-use-media-queries-in-css-for-responsive-design)<br>
 
 ## CSS tips and Tricks
 - [https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/](https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/)<br>
