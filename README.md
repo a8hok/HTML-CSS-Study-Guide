@@ -59,6 +59,7 @@ To explore HTML &amp; CSS
 - [https://www.freecodecamp.org/news/learn-tailwind-css/](https://www.freecodecamp.org/news/learn-tailwind-css/)<br>
 - [https://www.freecodecamp.org/news/what-is-tailwind-css-a-beginners-guide/(https://www.freecodecamp.org/news/what-is-tailwind-css-a-beginners-guide/)<br>
 - [https://blog.logrocket.com/tailwind-css-dynamic-breakpoints-and-container-queries/](https://blog.logrocket.com/tailwind-css-dynamic-breakpoints-and-container-queries/)<br>
+- [https://towardsdev.com/why-tailwind-is-better-by-trisk-f69bd4f3fedb](https://towardsdev.com/why-tailwind-is-better-by-trisk-f69bd4f3fedb)<br>
 
 ## Responsive
 - [https://css-tricks.com/fun-viewport-units/](https://css-tricks.com/fun-viewport-units/)<br>
