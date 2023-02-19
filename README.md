@@ -28,6 +28,7 @@ To explore HTML &amp; CSS
 - [https://blog.openreplay.com/working-with-the-css-box-model/](https://blog.openreplay.com/working-with-the-css-box-model/)<br>
 - [https://blog.openreplay.com/introduction-to-pure-css/](https://blog.openreplay.com/introduction-to-pure-css/)<br>
 - [https://blog.krsh.eu.org/the-art-of-css-positioning](https://blog.krsh.eu.org/the-art-of-css-positioning)<br>
+- [https://css-irl.info/resizing-with-css/](https://css-irl.info/resizing-with-css/)<br>
 
 ## CSS Resources
 - [https://dev.to/lissy93/super-useful-css-resources-1ba3](https://dev.to/lissy93/super-useful-css-resources-1ba3)<br>
