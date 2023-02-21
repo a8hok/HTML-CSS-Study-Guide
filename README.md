@@ -54,6 +54,7 @@ To explore HTML &amp; CSS
 - [https://www.hyperui.dev/components/ecommerce/carts](https://www.hyperui.dev/components/ecommerce/carts)<br>
 - [https://12daysofweb.dev/](https://12daysofweb.dev/)<br>
 - [https://blog.openreplay.com/using-the-css-filter-property/](https://blog.openreplay.com/using-the-css-filter-property/)<br>
+- [https://blog.sahilchandravanshi.com/custom-css-scrollbar](https://blog.sahilchandravanshi.com/custom-css-scrollbar)<br>
 
 ## BEM
 - [https://daverupert.com/2022/08/modern-alternatives-to-bem/](https://daverupert.com/2022/08/modern-alternatives-to-bem/)<br>
