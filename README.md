@@ -10,6 +10,7 @@ To explore HTML &amp; CSS
 - [https://code.tutsplus.com/tutorials/28-html5-features-tips-and-techniques-you-must-know--net-13520](https://code.tutsplus.com/tutorials/28-html5-features-tips-and-techniques-you-must-know--net-13520)<br>
 - [https://blog.amenas.me/my-journey-of-2022-dev-retro-2022?deviceType=desktop](https://blog.amenas.me/my-journey-of-2022-dev-retro-2022?deviceType=desktop)<br>
 - [https://pragmaticpineapple.com/adding-custom-html-and-css-to-github-readme/](https://pragmaticpineapple.com/adding-custom-html-and-css-to-github-readme/)<br>
+- [https://www.builder.io/blog/how-to-improve-lighthouse-scores-by-avoiding-img-layout-shifts](https://www.builder.io/blog/how-to-improve-lighthouse-scores-by-avoiding-img-layout-shifts)<br>
 
 ## CSS Learn
 - [https://levelup.gitconnected.com/css-layout-patterns-5-f63dab322c6](https://levelup.gitconnected.com/css-layout-patterns-5-f63dab322c6)<br>
