@@ -43,6 +43,7 @@ To explore HTML &amp; CSS
 - [https://www.freecodecamp.org/news/css-flexbox-complete-guide/](https://www.freecodecamp.org/news/css-flexbox-complete-guide/)<br>
 - [https://jst.hashnode.dev/complete-css-flex-tutorial](https://jst.hashnode.dev/complete-css-flex-tutorial)<br>
 - [https://codingfantasy.com/games](https://codingfantasy.com/games)<br>
+- [https://ishadeed.com/article/flex-wrap-detect/](https://ishadeed.com/article/flex-wrap-detect/)<br>
 
 ## CSS Grid
 - [https://jst.hashnode.dev/css-grid-tutorial](https://jst.hashnode.dev/css-grid-tutorial)<br>
