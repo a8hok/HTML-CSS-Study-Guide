@@ -31,6 +31,7 @@ To explore HTML &amp; CSS
 - [https://blog.openreplay.com/introduction-to-pure-css/](https://blog.openreplay.com/introduction-to-pure-css/)<br>
 - [https://blog.krsh.eu.org/the-art-of-css-positioning](https://blog.krsh.eu.org/the-art-of-css-positioning)<br>
 - [https://css-irl.info/resizing-with-css/](https://css-irl.info/resizing-with-css/)<br>
+- [https://dev.to/coderpad/top-10-css-animation-libraries-656](https://dev.to/coderpad/top-10-css-animation-libraries-656)<br>
 
 ## CSS Resources
 - [https://dev.to/lissy93/super-useful-css-resources-1ba3](https://dev.to/lissy93/super-useful-css-resources-1ba3)<br>
