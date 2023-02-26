@@ -79,3 +79,6 @@ To explore HTML &amp; CSS
 - [https://www.builder.io/blog/css-tips-for-better-web-development](https://www.builder.io/blog/css-tips-for-better-web-development)<br>
 - [https://css-tricks.com/moving-backgrounds/](https://css-tricks.com/moving-backgrounds/)<br>
 
+## CSS variables
+- [https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855](https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855)<br>
+
