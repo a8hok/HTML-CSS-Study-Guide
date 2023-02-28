@@ -83,6 +83,7 @@ Table of Contents
 - [https://blog.logrocket.com/tailwind-css-dynamic-breakpoints-and-container-queries/](https://blog.logrocket.com/tailwind-css-dynamic-breakpoints-and-container-queries/)<br>
 - [https://towardsdev.com/why-tailwind-is-better-by-trisk-f69bd4f3fedb](https://towardsdev.com/why-tailwind-is-better-by-trisk-f69bd4f3fedb)<br>
 - [https://tailwind-elements.com/docs/standard/data/tables/](https://tailwind-elements.com/docs/standard/data/tables/)<br>
+- [https://www.freecodecamp.org/news/tailwindcss-vs-nextui-how-to-choose-a-ui-framework/](https://www.freecodecamp.org/news/tailwindcss-vs-nextui-how-to-choose-a-ui-framework/)<br>
 
 ## Responsive
 - [https://css-tricks.com/fun-viewport-units/](https://css-tricks.com/fun-viewport-units/)<br>
