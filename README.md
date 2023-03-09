@@ -87,6 +87,7 @@ Table of Contents
 - [https://towardsdev.com/why-tailwind-is-better-by-trisk-f69bd4f3fedb](https://towardsdev.com/why-tailwind-is-better-by-trisk-f69bd4f3fedb)<br>
 - [https://tailwind-elements.com/docs/standard/data/tables/](https://tailwind-elements.com/docs/standard/data/tables/)<br>
 - [https://www.freecodecamp.org/news/tailwindcss-vs-nextui-how-to-choose-a-ui-framework/](https://www.freecodecamp.org/news/tailwindcss-vs-nextui-how-to-choose-a-ui-framework/)<br>
+- [https://blog.openreplay.com/theming-with-tailwind-css/](https://blog.openreplay.com/theming-with-tailwind-css/)<br>
 
 ## Responsive
 - [https://css-tricks.com/fun-viewport-units/](https://css-tricks.com/fun-viewport-units/)<br>
