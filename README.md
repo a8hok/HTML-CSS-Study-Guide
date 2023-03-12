@@ -49,6 +49,7 @@ Table of Contents
 - [https://dev.to/coderpad/top-10-css-animation-libraries-656](https://dev.to/coderpad/top-10-css-animation-libraries-656)<br>
 - [https://dev.to/codux/the-future-of-css-33kl](https://dev.to/codux/the-future-of-css-33kl)<br>
 - [https://andy-bell.co.uk/a-modern-css-reset/](https://andy-bell.co.uk/a-modern-css-reset/)<br>
+- [https://developer.chrome.com/articles/css-nesting/](https://developer.chrome.com/articles/css-nesting/)<br>
 
 
 ## CSS Resources
