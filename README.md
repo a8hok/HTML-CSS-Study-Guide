@@ -50,6 +50,8 @@ Table of Contents
 - [https://dev.to/codux/the-future-of-css-33kl](https://dev.to/codux/the-future-of-css-33kl)<br>
 - [https://andy-bell.co.uk/a-modern-css-reset/](https://andy-bell.co.uk/a-modern-css-reset/)<br>
 - [https://developer.chrome.com/articles/css-nesting/](https://developer.chrome.com/articles/css-nesting/)<br>
+- [https://blog.openreplay.com/working-with-multiple-columns-in-css/](https://blog.openreplay.com/working-with-multiple-columns-in-css/)<br>
+
 
 
 ## CSS Resources
@@ -104,7 +106,7 @@ Table of Contents
 - [https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855](https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855)<br>
 
 ## SASS
-- [https://blog.openreplay.com/working-with-multiple-columns-in-css/](https://blog.openreplay.com/working-with-multiple-columns-in-css/)<br>
+- [https://towardsdev.com/sass-syntactically-awesome-stylesheets-e36891d173c1](https://towardsdev.com/sass-syntactically-awesome-stylesheets-e36891d173c1)<br>
 
 ## Projects
 - [https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/](https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/)<br>
