@@ -103,6 +103,9 @@ Table of Contents
 ## CSS variables
 - [https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855](https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855)<br>
 
+## SASS
+- [https://blog.openreplay.com/working-with-multiple-columns-in-css/](https://blog.openreplay.com/working-with-multiple-columns-in-css/)<br>
+
 ## Projects
 - [https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/](https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/)<br>
 - [https://towardsdev.com/building-a-github-account-x-100-days-of-code-days-15-21-cb6351745386](https://towardsdev.com/building-a-github-account-x-100-days-of-code-days-15-21-cb6351745386)<br>
