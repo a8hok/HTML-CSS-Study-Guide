@@ -73,6 +73,7 @@ Table of Contents
 - [https://codedamn.com/news/frontend/css-grid](https://codedamn.com/news/frontend/css-grid)<br>
 - [https://www.freecodecamp.org/news/grid-to-list-toggle-using-css-grid/](https://www.freecodecamp.org/news/grid-to-list-toggle-using-css-grid/)<br>
 - [https://blog.openreplay.com/working-with-the-css-grid/](https://blog.openreplay.com/working-with-the-css-grid/)<br>
+- [https://www.freecodecamp.org/news/complete-guide-to-css-grid/](https://www.freecodecamp.org/news/complete-guide-to-css-grid/)<br>
 
 
 ## CSS Hands-on
