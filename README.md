@@ -51,6 +51,7 @@ Table of Contents
 - [https://andy-bell.co.uk/a-modern-css-reset/](https://andy-bell.co.uk/a-modern-css-reset/)<br>
 - [https://developer.chrome.com/articles/css-nesting/](https://developer.chrome.com/articles/css-nesting/)<br>
 - [https://blog.openreplay.com/working-with-multiple-columns-in-css/](https://blog.openreplay.com/working-with-multiple-columns-in-css/)<br>
+- [https://blog.openreplay.com/color-types-in-css/](https://blog.openreplay.com/color-types-in-css/)<br>
 
 
 
