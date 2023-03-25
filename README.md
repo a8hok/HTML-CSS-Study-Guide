@@ -96,6 +96,7 @@ Table of Contents
 - [https://tailwind-elements.com/docs/standard/data/tables/](https://tailwind-elements.com/docs/standard/data/tables/)<br>
 - [https://www.freecodecamp.org/news/tailwindcss-vs-nextui-how-to-choose-a-ui-framework/](https://www.freecodecamp.org/news/tailwindcss-vs-nextui-how-to-choose-a-ui-framework/)<br>
 - [https://blog.openreplay.com/theming-with-tailwind-css/](https://blog.openreplay.com/theming-with-tailwind-css/)<br>
+- [https://nerdcave.com/tailwind-cheat-sheet](https://nerdcave.com/tailwind-cheat-sheet)<br>
 
 ## Responsive
 - [https://css-tricks.com/fun-viewport-units/](https://css-tricks.com/fun-viewport-units/)<br>
