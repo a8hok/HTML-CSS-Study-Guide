@@ -19,6 +19,7 @@ Table of Contents
 ## DOM
 - [https://www.freecodecamp.org/news/javascript-dom-manipulation/](https://www.freecodecamp.org/news/javascript-dom-manipulation/)<br>
 - [https://www.freecodecamp.org/news/what-is-the-dom-explained-in-plain-english/](https://www.freecodecamp.org/news/what-is-the-dom-explained-in-plain-english/)<br>
+- [https://dev.to/ruppysuppy/deep-dive-into-how-web-browsers-work-with-illustrations-249b](https://dev.to/ruppysuppy/deep-dive-into-how-web-browsers-work-with-illustrations-249b)<br>
 
 ## HTML
 - [https://code.tutsplus.com/tutorials/28-html5-features-tips-and-techniques-you-must-know--net-13520](https://code.tutsplus.com/tutorials/28-html5-features-tips-and-techniques-you-must-know--net-13520)<br>
