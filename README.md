@@ -54,6 +54,7 @@ Table of Contents
 - [https://blog.openreplay.com/working-with-multiple-columns-in-css/](https://blog.openreplay.com/working-with-multiple-columns-in-css/)<br>
 - [https://blog.openreplay.com/color-types-in-css/](https://blog.openreplay.com/color-types-in-css/)<br>
 - [https://web.dev/6-css-snippets-every-front-end-developer-should-know-in-2023/](https://web.dev/6-css-snippets-every-front-end-developer-should-know-in-2023/)<br>
+- [https://www.syncfusion.com/blogs/post/css-flex-every-developer-should-know.aspx](https://www.syncfusion.com/blogs/post/css-flex-every-developer-should-know.aspx)<br>
 
 
 
