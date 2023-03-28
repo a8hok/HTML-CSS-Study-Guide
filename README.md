@@ -28,6 +28,7 @@ Table of Contents
 - [https://www.builder.io/blog/how-to-improve-lighthouse-scores-by-avoiding-img-layout-shifts](https://www.builder.io/blog/how-to-improve-lighthouse-scores-by-avoiding-img-layout-shifts)<br>
 - [https://www.freecodecamp.org/news/html-coding-introduction-course-for-beginners/](https://www.freecodecamp.org/news/html-coding-introduction-course-for-beginners/)<br>
 - [https://www.freecodecamp.org/news/html-for-beginners/](https://www.freecodecamp.org/news/html-for-beginners/)<br>
+- []()<br>
 
 ## CSS Learn
 - [https://levelup.gitconnected.com/css-layout-patterns-5-f63dab322c6](https://levelup.gitconnected.com/css-layout-patterns-5-f63dab322c6)<br>
@@ -98,6 +99,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/tailwindcss-vs-nextui-how-to-choose-a-ui-framework/](https://www.freecodecamp.org/news/tailwindcss-vs-nextui-how-to-choose-a-ui-framework/)<br>
 - [https://blog.openreplay.com/theming-with-tailwind-css/](https://blog.openreplay.com/theming-with-tailwind-css/)<br>
 - [https://nerdcave.com/tailwind-cheat-sheet](https://nerdcave.com/tailwind-cheat-sheet)<br>
+- [https://www.freecodecamp.org/news/what-is-tailwind-css-a-beginners-guide/](https://www.freecodecamp.org/news/what-is-tailwind-css-a-beginners-guide/)<br>
 
 ## Responsive
 - [https://css-tricks.com/fun-viewport-units/](https://css-tricks.com/fun-viewport-units/)<br>
