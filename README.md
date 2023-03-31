@@ -101,6 +101,7 @@ Table of Contents
 - [https://blog.openreplay.com/theming-with-tailwind-css/](https://blog.openreplay.com/theming-with-tailwind-css/)<br>
 - [https://nerdcave.com/tailwind-cheat-sheet](https://nerdcave.com/tailwind-cheat-sheet)<br>
 - [https://www.freecodecamp.org/news/what-is-tailwind-css-a-beginners-guide/](https://www.freecodecamp.org/news/what-is-tailwind-css-a-beginners-guide/)<br>
+- [https://ellahcodes.hashnode.dev/my-first-tailwind-experience](https://ellahcodes.hashnode.dev/my-first-tailwind-experience)<br>
 
 ## Responsive
 - [https://css-tricks.com/fun-viewport-units/](https://css-tricks.com/fun-viewport-units/)<br>
