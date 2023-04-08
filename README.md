@@ -126,4 +126,5 @@ Table of Contents
 
 ## Courses
 - [https://www.simplilearn.com/front-end-developer-free-course-skillup](https://www.simplilearn.com/front-end-developer-free-course-skillup)<br>
+- [https://www.mygreatlearning.com/academy/learn-for-free/courses/front-end-development-css?utm_campaign=GLA_TOP_NAV](https://www.mygreatlearning.com/academy/learn-for-free/courses/front-end-development-css?utm_campaign=GLA_TOP_NAV)<br>
 
