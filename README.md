@@ -113,6 +113,7 @@ Table of Contents
 - [https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/](https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/)<br>
 - [https://www.builder.io/blog/css-tips-for-better-web-development](https://www.builder.io/blog/css-tips-for-better-web-development)<br>
 - [https://css-tricks.com/moving-backgrounds/](https://css-tricks.com/moving-backgrounds/)<br>
+- [https://blog.logrocket.com/matching-elements-css-nth-child-other-selectors/](https://blog.logrocket.com/matching-elements-css-nth-child-other-selectors/)<br>
 
 ## CSS variables
 - [https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855](https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855)<br>
