@@ -58,6 +58,7 @@ Table of Contents
 - [https://www.syncfusion.com/blogs/post/css-flex-every-developer-should-know.aspx](https://www.syncfusion.com/blogs/post/css-flex-every-developer-should-know.aspx)<br>
 - [https://ishadeed.com/article/container-query-units/](https://ishadeed.com/article/container-query-units/)<br>
 - [https://basescripts.com/modern-css-for-beginners-2022-web-design-getting-started-new-course-free-pdf-guide-included-below](https://basescripts.com/modern-css-for-beginners-2022-web-design-getting-started-new-course-free-pdf-guide-included-below)<br>
+- [https://dev.to/alvaromontoro/css-is-dead-1i4](https://dev.to/alvaromontoro/css-is-dead-1i4)<br>
 
 
 
