@@ -59,6 +59,7 @@ Table of Contents
 - [https://ishadeed.com/article/container-query-units/](https://ishadeed.com/article/container-query-units/)<br>
 - [https://basescripts.com/modern-css-for-beginners-2022-web-design-getting-started-new-course-free-pdf-guide-included-below](https://basescripts.com/modern-css-for-beginners-2022-web-design-getting-started-new-course-free-pdf-guide-included-below)<br>
 - [https://dev.to/alvaromontoro/css-is-dead-1i4](https://dev.to/alvaromontoro/css-is-dead-1i4)<br>
+- [https://wpmayor.com/the-60-30-10-rule-made-our-website-designs-infinitely-better/](https://wpmayor.com/the-60-30-10-rule-made-our-website-designs-infinitely-better/)<br>
 
 
 
