@@ -117,6 +117,7 @@ Table of Contents
 - [https://css-tricks.com/moving-backgrounds/](https://css-tricks.com/moving-backgrounds/)<br>
 - [https://blog.logrocket.com/matching-elements-css-nth-child-other-selectors/](https://blog.logrocket.com/matching-elements-css-nth-child-other-selectors/)<br>
 - [https://dev.to/devsyedmohsin/22-useful-css-tips-and-tricks-every-developer-should-know-13c6](https://dev.to/devsyedmohsin/22-useful-css-tips-and-tricks-every-developer-should-know-13c6)<br>
+- [https://dev.to/hr21don/6-advanced-css-properties-to-make-your-content-stand-out-2n86](https://dev.to/hr21don/6-advanced-css-properties-to-make-your-content-stand-out-2n86)<br>
 
 ## CSS variables
 - [https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855](https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855)<br>
