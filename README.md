@@ -124,6 +124,7 @@ Table of Contents
 
 ## CSS variables
 - [https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855](https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855)<br>
+- [https://blog.bitsrc.io/difference-between-design-tokens-and-design-variables-in-css-8809b7f3b5c8](https://blog.bitsrc.io/difference-between-design-tokens-and-design-variables-in-css-8809b7f3b5c8)<br>
 
 ## SASS
 - [https://towardsdev.com/sass-syntactically-awesome-stylesheets-e36891d173c1](https://towardsdev.com/sass-syntactically-awesome-stylesheets-e36891d173c1)<br>
