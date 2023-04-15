@@ -119,6 +119,7 @@ Table of Contents
 - [https://dev.to/devsyedmohsin/22-useful-css-tips-and-tricks-every-developer-should-know-13c6](https://dev.to/devsyedmohsin/22-useful-css-tips-and-tricks-every-developer-should-know-13c6)<br>
 - [https://dev.to/hr21don/6-advanced-css-properties-to-make-your-content-stand-out-2n86](https://dev.to/hr21don/6-advanced-css-properties-to-make-your-content-stand-out-2n86)<br>
 - [https://css-tip.com/css-zoom-effect/](https://css-tip.com/css-zoom-effect/)<br>
+- [https://levelup.gitconnected.com/costly-css-properties-and-how-to-optimize-them-b2ebc6a85979](https://levelup.gitconnected.com/costly-css-properties-and-how-to-optimize-them-b2ebc6a85979)<br>
 
 ## CSS variables
 - [https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855](https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855)<br>
