@@ -122,6 +122,7 @@ Table of Contents
 - [https://css-tip.com/css-zoom-effect/](https://css-tip.com/css-zoom-effect/)<br>
 - [https://levelup.gitconnected.com/costly-css-properties-and-how-to-optimize-them-b2ebc6a85979](https://levelup.gitconnected.com/costly-css-properties-and-how-to-optimize-them-b2ebc6a85979)<br>
 - [https://blog.saeloun.com/2023/04/06/know-about-css-where-is](https://blog.saeloun.com/2023/04/06/know-about-css-where-is)<br>
+- [https://developer.chrome.com/blog/css-text-wrap-balance/](https://developer.chrome.com/blog/css-text-wrap-balance/)<br>
 
 ## CSS variables
 - [https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855](https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855)<br>
