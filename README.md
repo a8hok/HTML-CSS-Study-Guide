@@ -60,6 +60,7 @@ Table of Contents
 - [https://basescripts.com/modern-css-for-beginners-2022-web-design-getting-started-new-course-free-pdf-guide-included-below](https://basescripts.com/modern-css-for-beginners-2022-web-design-getting-started-new-course-free-pdf-guide-included-below)<br>
 - [https://dev.to/alvaromontoro/css-is-dead-1i4](https://dev.to/alvaromontoro/css-is-dead-1i4)<br>
 - [https://wpmayor.com/the-60-30-10-rule-made-our-website-designs-infinitely-better/](https://wpmayor.com/the-60-30-10-rule-made-our-website-designs-infinitely-better/)<br>
+- [https://javascript.plainenglish.io/what-i-was-never-told-about-css-3fe859b1a1da](https://javascript.plainenglish.io/what-i-was-never-told-about-css-3fe859b1a1da)<br>
 
 
 
