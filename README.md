@@ -110,6 +110,7 @@ Table of Contents
 - [https://ellahcodes.hashnode.dev/my-first-tailwind-experience](https://ellahcodes.hashnode.dev/my-first-tailwind-experience)<br>
 - [https://towardsdev.com/setting-uptailwind-css-with-reactjs-8245c936e164](https://towardsdev.com/setting-uptailwind-css-with-reactjs-8245c936e164)<br>
 - [https://howtocrackit.com/tailwind-css-responsive-design-mastering-breakpoints-and-media-queries/](https://howtocrackit.com/tailwind-css-responsive-design-mastering-breakpoints-and-media-queries/)<br>
+- [https://howtocrackit.com/tailwind-css-flexbox-and-grid-efficient-layout-techniques-for-modern-web-applications/](https://howtocrackit.com/tailwind-css-flexbox-and-grid-efficient-layout-techniques-for-modern-web-applications/)<br>
 
 ## Responsive
 - [https://css-tricks.com/fun-viewport-units/](https://css-tricks.com/fun-viewport-units/)<br>
