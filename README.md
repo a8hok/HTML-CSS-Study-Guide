@@ -140,6 +140,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/](https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/)<br>
 - [https://towardsdev.com/building-a-github-account-x-100-days-of-code-days-15-21-cb6351745386](https://towardsdev.com/building-a-github-account-x-100-days-of-code-days-15-21-cb6351745386)<br>
 - [https://github.com/PacktPublishing/50-Projects-In-50-Days---HTML-CSS-JavaScript](https://github.com/PacktPublishing/50-Projects-In-50-Days---HTML-CSS-JavaScript)<br>
+- [https://htmlrev.com/](https://htmlrev.com/)<br>
 
 ## Courses
 - [https://www.simplilearn.com/front-end-developer-free-course-skillup](https://www.simplilearn.com/front-end-developer-free-course-skillup)<br>
