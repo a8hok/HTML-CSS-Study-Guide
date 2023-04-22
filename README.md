@@ -129,6 +129,7 @@ Table of Contents
 - [https://developer.chrome.com/blog/css-text-wrap-balance/](https://developer.chrome.com/blog/css-text-wrap-balance/)<br>
 - [https://javascript.plainenglish.io/what-i-was-never-told-about-css-3fe859b1a1da](https://javascript.plainenglish.io/what-i-was-never-told-about-css-3fe859b1a1da)<br>
 - [https://dev.to/sp90/5-tips-to-become-better-at-css-3d24](https://dev.to/sp90/5-tips-to-become-better-at-css-3d24)<br>
+- [https://blog.bitsrc.io/14-awesome-css-properties-you-need-to-know-9cee5b364990](https://blog.bitsrc.io/14-awesome-css-properties-you-need-to-know-9cee5b364990)<br>
 
 ## CSS variables
 - [https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855](https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855)<br>
