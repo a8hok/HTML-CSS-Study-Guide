@@ -141,6 +141,7 @@ Table of Contents
 - [https://towardsdev.com/building-a-github-account-x-100-days-of-code-days-15-21-cb6351745386](https://towardsdev.com/building-a-github-account-x-100-days-of-code-days-15-21-cb6351745386)<br>
 - [https://github.com/PacktPublishing/50-Projects-In-50-Days---HTML-CSS-JavaScript](https://github.com/PacktPublishing/50-Projects-In-50-Days---HTML-CSS-JavaScript)<br>
 - [https://htmlrev.com/](https://htmlrev.com/)<br>
+- [https://levelup.gitconnected.com/9-projects-you-can-do-to-become-a-front-end-master-in-2023-a4389153148c](https://levelup.gitconnected.com/9-projects-you-can-do-to-become-a-front-end-master-in-2023-a4389153148c)<br>
 
 ## Courses
 - [https://www.simplilearn.com/front-end-developer-free-course-skillup](https://www.simplilearn.com/front-end-developer-free-course-skillup)<br>
