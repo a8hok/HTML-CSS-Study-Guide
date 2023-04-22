@@ -128,6 +128,7 @@ Table of Contents
 - [https://blog.saeloun.com/2023/04/06/know-about-css-where-is](https://blog.saeloun.com/2023/04/06/know-about-css-where-is)<br>
 - [https://developer.chrome.com/blog/css-text-wrap-balance/](https://developer.chrome.com/blog/css-text-wrap-balance/)<br>
 - [https://javascript.plainenglish.io/what-i-was-never-told-about-css-3fe859b1a1da](https://javascript.plainenglish.io/what-i-was-never-told-about-css-3fe859b1a1da)<br>
+- [https://dev.to/sp90/5-tips-to-become-better-at-css-3d24](https://dev.to/sp90/5-tips-to-become-better-at-css-3d24)<br>
 
 ## CSS variables
 - [https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855](https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855)<br>
