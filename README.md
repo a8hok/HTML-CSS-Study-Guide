@@ -62,7 +62,7 @@ Table of Contents
 - [https://wpmayor.com/the-60-30-10-rule-made-our-website-designs-infinitely-better/](https://wpmayor.com/the-60-30-10-rule-made-our-website-designs-infinitely-better/)<br>
 - [https://javascript.plainenglish.io/what-i-was-never-told-about-css-3fe859b1a1da](https://javascript.plainenglish.io/what-i-was-never-told-about-css-3fe859b1a1da)<br>
 - [https://ujjwalkjha.hashnode.dev/css-selectors](https://ujjwalkjha.hashnode.dev/css-selectors)<br>
-
+- [https://blog.logrocket.com/write-type-safe-css-modules/](https://blog.logrocket.com/write-type-safe-css-modules/)<br>
 
 
 ## CSS Resources
