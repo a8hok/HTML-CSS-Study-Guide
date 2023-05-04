@@ -64,6 +64,7 @@ Table of Contents
 - [https://ujjwalkjha.hashnode.dev/css-selectors](https://ujjwalkjha.hashnode.dev/css-selectors)<br>
 - [https://blog.logrocket.com/write-type-safe-css-modules/](https://blog.logrocket.com/write-type-safe-css-modules/)<br>
 - [https://www.infoworld.com/article/3663513/the-best-new-css-features.html](https://www.infoworld.com/article/3663513/the-best-new-css-features.html)<br>
+- [https://nerdleveltech.com/a-complete-and-beginner-friendly-guide-to-css-mastery-part-1/](https://nerdleveltech.com/a-complete-and-beginner-friendly-guide-to-css-mastery-part-1/)<br>
 
 
 ## CSS Resources
