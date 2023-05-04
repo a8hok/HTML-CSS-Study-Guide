@@ -157,6 +157,7 @@ Table of Contents
 ## CSS challanges
 - [https://uiverse.io/challenges](https://uiverse.io/challenges)<br>
 
-## Frontend Interview
+## Frontend
 - [https://techleadcuriosity.com/25-most-common-questions-asked-in-a-fronted-engineering-job-interview-b3f1337906ce](https://techleadcuriosity.com/25-most-common-questions-asked-in-a-fronted-engineering-job-interview-b3f1337906ce)<br>
+- [https://blog.bitsrc.io/microfrontends-with-graphql-how-to-simplify-data-fetching-and-communication-across-microservices-24e360acb802](https://blog.bitsrc.io/microfrontends-with-graphql-how-to-simplify-data-fetching-and-communication-across-microservices-24e360acb802)<br>
 
