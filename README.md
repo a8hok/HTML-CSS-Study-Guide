@@ -88,6 +88,7 @@ Table of Contents
 - [https://blog.openreplay.com/working-with-the-css-grid/](https://blog.openreplay.com/working-with-the-css-grid/)<br>
 - [https://www.freecodecamp.org/news/complete-guide-to-css-grid/](https://www.freecodecamp.org/news/complete-guide-to-css-grid/)<br>
 - [https://www.atatus.com/blog/css-grid/](https://www.atatus.com/blog/css-grid/)<br>
+- [https://compile7.org/decompile/build-a-responsive-dashboard-layout-with-css-grid/](https://compile7.org/decompile/build-a-responsive-dashboard-layout-with-css-grid/)<br>
 
 
 ## CSS Hands-on
