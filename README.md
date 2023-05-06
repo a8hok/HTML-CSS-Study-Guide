@@ -115,6 +115,7 @@ Table of Contents
 - [https://howtocrackit.com/tailwind-css-responsive-design-mastering-breakpoints-and-media-queries/](https://howtocrackit.com/tailwind-css-responsive-design-mastering-breakpoints-and-media-queries/)<br>
 - [https://howtocrackit.com/tailwind-css-flexbox-and-grid-efficient-layout-techniques-for-modern-web-applications/](https://howtocrackit.com/tailwind-css-flexbox-and-grid-efficient-layout-techniques-for-modern-web-applications/)<br>
 - [https://csstailwind.com/category/learn-tailwind/](https://csstailwind.com/category/learn-tailwind/)<br>
+- [https://www.highlight.io/blog/typesafe-tailwind](https://www.highlight.io/blog/typesafe-tailwind)<br>
 
 ## Responsive
 - [https://css-tricks.com/fun-viewport-units/](https://css-tricks.com/fun-viewport-units/)<br>
@@ -154,7 +155,7 @@ Table of Contents
 - [https://www.simplilearn.com/front-end-developer-free-course-skillup](https://www.simplilearn.com/front-end-developer-free-course-skillup)<br>
 - [https://www.mygreatlearning.com/academy/learn-for-free/courses/front-end-development-css?utm_campaign=GLA_TOP_NAV](https://www.mygreatlearning.com/academy/learn-for-free/courses/front-end-development-css?utm_campaign=GLA_TOP_NAV)<br>
 
-## CSS challanges
+## CSS challenges
 - [https://uiverse.io/challenges](https://uiverse.io/challenges)<br>
 
 ## Frontend
