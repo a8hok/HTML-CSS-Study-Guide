@@ -20,6 +20,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/javascript-dom-manipulation/](https://www.freecodecamp.org/news/javascript-dom-manipulation/)<br>
 - [https://www.freecodecamp.org/news/what-is-the-dom-explained-in-plain-english/](https://www.freecodecamp.org/news/what-is-the-dom-explained-in-plain-english/)<br>
 - [https://dev.to/ruppysuppy/deep-dive-into-how-web-browsers-work-with-illustrations-249b](https://dev.to/ruppysuppy/deep-dive-into-how-web-browsers-work-with-illustrations-249b)<br>
+- []()<br>
 
 ## HTML
 - [https://code.tutsplus.com/tutorials/28-html5-features-tips-and-techniques-you-must-know--net-13520](https://code.tutsplus.com/tutorials/28-html5-features-tips-and-techniques-you-must-know--net-13520)<br>
@@ -65,6 +66,7 @@ Table of Contents
 - [https://blog.logrocket.com/write-type-safe-css-modules/](https://blog.logrocket.com/write-type-safe-css-modules/)<br>
 - [https://www.infoworld.com/article/3663513/the-best-new-css-features.html](https://www.infoworld.com/article/3663513/the-best-new-css-features.html)<br>
 - [https://nerdleveltech.com/a-complete-and-beginner-friendly-guide-to-css-mastery-part-1/](https://nerdleveltech.com/a-complete-and-beginner-friendly-guide-to-css-mastery-part-1/)<br>
+- [https://nerdleveltech.com/a-complete-and-beginner-friendly-guide-to-css-mastery-part-3/](https://nerdleveltech.com/a-complete-and-beginner-friendly-guide-to-css-mastery-part-3/)<br>
 
 
 ## CSS Resources
