@@ -156,6 +156,7 @@ Table of Contents
 - [https://htmlrev.com/](https://htmlrev.com/)<br>
 - [https://levelup.gitconnected.com/9-projects-you-can-do-to-become-a-front-end-master-in-2023-a4389153148c](https://levelup.gitconnected.com/9-projects-you-can-do-to-become-a-front-end-master-in-2023-a4389153148c)<br>
 - [https://www.geekshelp.in/p/html-css-projects_5.html](https://www.geekshelp.in/p/html-css-projects_5.html)<br>
+- [https://dev.to/ryandsouza13/create-a-simple-digital-clock-using-html-css-and-javascript-3h53](https://dev.to/ryandsouza13/create-a-simple-digital-clock-using-html-css-and-javascript-3h53)<br>
 
 ## Courses
 - [https://www.simplilearn.com/front-end-developer-free-course-skillup](https://www.simplilearn.com/front-end-developer-free-course-skillup)<br>
