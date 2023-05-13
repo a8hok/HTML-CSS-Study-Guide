@@ -68,7 +68,7 @@ Table of Contents
 - [https://www.infoworld.com/article/3663513/the-best-new-css-features.html](https://www.infoworld.com/article/3663513/the-best-new-css-features.html)<br>
 - [https://nerdleveltech.com/a-complete-and-beginner-friendly-guide-to-css-mastery-part-1/](https://nerdleveltech.com/a-complete-and-beginner-friendly-guide-to-css-mastery-part-1/)<br>
 - [https://nerdleveltech.com/a-complete-and-beginner-friendly-guide-to-css-mastery-part-3/](https://nerdleveltech.com/a-complete-and-beginner-friendly-guide-to-css-mastery-part-3/)<br>
-- 
+- [https://cssbattle.dev/](https://cssbattle.dev/)<br>
 
 
 ## CSS Resources
