@@ -69,6 +69,7 @@ Table of Contents
 - [https://nerdleveltech.com/a-complete-and-beginner-friendly-guide-to-css-mastery-part-1/](https://nerdleveltech.com/a-complete-and-beginner-friendly-guide-to-css-mastery-part-1/)<br>
 - [https://nerdleveltech.com/a-complete-and-beginner-friendly-guide-to-css-mastery-part-3/](https://nerdleveltech.com/a-complete-and-beginner-friendly-guide-to-css-mastery-part-3/)<br>
 - [https://cssbattle.dev/](https://cssbattle.dev/)<br>
+- [https://nerdleveltech.com/a-complete-and-beginner-friendly-guide-to-css-mastery-part-2/](https://nerdleveltech.com/a-complete-and-beginner-friendly-guide-to-css-mastery-part-2/)<br>
 
 
 ## CSS Resources
