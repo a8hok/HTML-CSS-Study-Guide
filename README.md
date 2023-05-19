@@ -123,6 +123,7 @@ Table of Contents
 - [https://csstailwind.com/category/learn-tailwind/](https://csstailwind.com/category/learn-tailwind/)<br>
 - [https://www.highlight.io/blog/typesafe-tailwind](https://www.highlight.io/blog/typesafe-tailwind)<br>
 - [https://www.tailwind-variants.org/](https://www.tailwind-variants.org/)<br>
+- [https://blog.openreplay.com/tailwind-vs-bulma/](https://blog.openreplay.com/tailwind-vs-bulma/)<br>
 
 ## Responsive
 - [https://css-tricks.com/fun-viewport-units/](https://css-tricks.com/fun-viewport-units/)<br>
