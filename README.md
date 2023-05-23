@@ -124,6 +124,7 @@ Table of Contents
 - [https://www.highlight.io/blog/typesafe-tailwind](https://www.highlight.io/blog/typesafe-tailwind)<br>
 - [https://www.tailwind-variants.org/](https://www.tailwind-variants.org/)<br>
 - [https://blog.openreplay.com/tailwind-vs-bulma/](https://blog.openreplay.com/tailwind-vs-bulma/)<br>
+- [https://blog.openreplay.com/styling-astro-apps-with-tailwind-css/](https://blog.openreplay.com/styling-astro-apps-with-tailwind-css/)<br>
 
 ## Responsive
 - [https://css-tricks.com/fun-viewport-units/](https://css-tricks.com/fun-viewport-units/)<br>
