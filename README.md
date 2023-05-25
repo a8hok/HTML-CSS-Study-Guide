@@ -146,6 +146,7 @@ Table of Contents
 - [https://blog.bitsrc.io/14-awesome-css-properties-you-need-to-know-9cee5b364990](https://blog.bitsrc.io/14-awesome-css-properties-you-need-to-know-9cee5b364990)<br>
 - [https://ishadeed.com/article/css-logical-properties/](https://ishadeed.com/article/css-logical-properties/)<br>
 - [https://dev.to/leduc1901/costly-css-properties-and-how-to-optimize-them-3bmd](https://dev.to/leduc1901/costly-css-properties-and-how-to-optimize-them-3bmd)<br>
+- [https://www.mikeaparicio.com/posts/2023-05-22-why-were-bad-at-css/](https://www.mikeaparicio.com/posts/2023-05-22-why-were-bad-at-css/)<br>
 
 ## CSS variables
 - [https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855](https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855)<br>
