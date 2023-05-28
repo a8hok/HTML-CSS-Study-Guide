@@ -178,3 +178,5 @@ Table of Contents
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
 
+## Bootstrap
+- [https://bartwullems.blogspot.com/2023/05/bootstrap-5-showhide-images-on-specific.html](https://bartwullems.blogspot.com/2023/05/bootstrap-5-showhide-images-on-specific.html)<br>
