@@ -172,6 +172,7 @@ Table of Contents
 
 ## CSS challenges
 - [https://uiverse.io/challenges](https://uiverse.io/challenges)<br>
+- [https://animatedbackgrounds.me/](https://animatedbackgrounds.me/)<br>
 
 ## Frontend
 - [https://techleadcuriosity.com/25-most-common-questions-asked-in-a-fronted-engineering-job-interview-b3f1337906ce](https://techleadcuriosity.com/25-most-common-questions-asked-in-a-fronted-engineering-job-interview-b3f1337906ce)<br>
