@@ -150,6 +150,7 @@ Table of Contents
 - [https://dev.to/leduc1901/costly-css-properties-and-how-to-optimize-them-3bmd](https://dev.to/leduc1901/costly-css-properties-and-how-to-optimize-them-3bmd)<br>
 - [https://www.mikeaparicio.com/posts/2023-05-22-why-were-bad-at-css/](https://www.mikeaparicio.com/posts/2023-05-22-why-were-bad-at-css/)<br>
 - [https://itnext.io/basic-css-resets-to-apply-in-every-app-9bd724dc4f49](https://itnext.io/basic-css-resets-to-apply-in-every-app-9bd724dc4f49)<br>
+- [https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/](https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/)<br>
 
 ## CSS variables
 - [https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855](https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855)<br>
