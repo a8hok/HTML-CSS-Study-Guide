@@ -32,6 +32,7 @@ Table of Contents
 - [https://webdesign.tutsplus.com/articles/quick-tip-set-relative-urls-with-the-base-tag--cms-21399](https://webdesign.tutsplus.com/articles/quick-tip-set-relative-urls-with-the-base-tag--cms-21399)<br>
 - [https://hackernoon.com/71-stories-to-learn-about-html-css?source=rss](https://hackernoon.com/71-stories-to-learn-about-html-css?source=rss)<br>
 - [https://www.html-code-generator.com/css/triangle-generator](https://www.html-code-generator.com/css/triangle-generator)<br>
+- [https://www.freecodecamp.org/news/html-page-elements/](https://www.freecodecamp.org/news/html-page-elements/)<br>
 
 ## CSS Learn
 - [https://levelup.gitconnected.com/css-layout-patterns-5-f63dab322c6](https://levelup.gitconnected.com/css-layout-patterns-5-f63dab322c6)<br>
