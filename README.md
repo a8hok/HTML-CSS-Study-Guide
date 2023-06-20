@@ -187,6 +187,7 @@ Table of Contents
 - [https://blog.bitsrc.io/microfrontends-with-graphql-how-to-simplify-data-fetching-and-communication-across-microservices-24e360acb802](https://blog.bitsrc.io/microfrontends-with-graphql-how-to-simplify-data-fetching-and-communication-across-microservices-24e360acb802)<br>
 - [https://hackernoon.com/106-stories-to-learn-about-website?source=rss](https://hackernoon.com/106-stories-to-learn-about-website?source=rss)<br>
 - [https://hackernoon.com/306-stories-to-learn-about-webdev?source=rss](https://hackernoon.com/306-stories-to-learn-about-webdev?source=rss)<br>
+- [https://hackernoon.com/209-stories-to-learn-about-website-development?source=rss](https://hackernoon.com/209-stories-to-learn-about-website-development?source=rss)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
