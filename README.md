@@ -192,7 +192,7 @@ Table of Contents
 
 ## Bootstrap
 - [https://bartwullems.blogspot.com/2023/05/bootstrap-5-showhide-images-on-specific.html](https://bartwullems.blogspot.com/2023/05/bootstrap-5-showhide-images-on-specific.html)<br>
--
+- [https://hackernoon.com/66-stories-to-learn-about-bootstrap?source=rss](https://hackernoon.com/66-stories-to-learn-about-bootstrap?source=rss)<br>
 
 ## CSS frameworks
 - [https://chartscss.org/components/labels/](https://chartscss.org/components/labels/)<br>
