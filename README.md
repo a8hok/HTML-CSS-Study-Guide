@@ -73,6 +73,7 @@ Table of Contents
 - [https://cssbattle.dev/](https://cssbattle.dev/)<br>
 - [https://nerdleveltech.com/a-complete-and-beginner-friendly-guide-to-css-mastery-part-2/](https://nerdleveltech.com/a-complete-and-beginner-friendly-guide-to-css-mastery-part-2/)<br>
 - [https://developer.apple.com/videos/play/wwdc2023/10121/](https://developer.apple.com/videos/play/wwdc2023/10121/)<br>
+- [https://www.syncfusion.com/blogs/post/css-container-queries.aspx](https://www.syncfusion.com/blogs/post/css-container-queries.aspx)<br>
 
 
 ## CSS Resources
