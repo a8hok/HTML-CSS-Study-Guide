@@ -75,6 +75,7 @@ Table of Contents
 - [https://developer.apple.com/videos/play/wwdc2023/10121/](https://developer.apple.com/videos/play/wwdc2023/10121/)<br>
 - [https://www.syncfusion.com/blogs/post/css-container-queries.aspx](https://www.syncfusion.com/blogs/post/css-container-queries.aspx)<br>
 - [https://www.freecodecamp.org/news/complete-guide-to-css-transform-functions-and-properties/](https://www.freecodecamp.org/news/complete-guide-to-css-transform-functions-and-properties/)<br>
+- [https://blog.logrocket.com/css-logical-properties-guide/](https://blog.logrocket.com/css-logical-properties-guide/)<br>
 
 
 ## CSS Resources
