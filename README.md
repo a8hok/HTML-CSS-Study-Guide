@@ -162,8 +162,10 @@ Table of Contents
 - [https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855](https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855)<br>
 - [https://blog.bitsrc.io/difference-between-design-tokens-and-design-variables-in-css-8809b7f3b5c8](https://blog.bitsrc.io/difference-between-design-tokens-and-design-variables-in-css-8809b7f3b5c8)<br>
 
+
 ## SASS
 - [https://towardsdev.com/sass-syntactically-awesome-stylesheets-e36891d173c1](https://towardsdev.com/sass-syntactically-awesome-stylesheets-e36891d173c1)<br>
+- [https://uxplanet.org/exploring-the-variables-in-scss-ae963881173d](https://uxplanet.org/exploring-the-variables-in-scss-ae963881173d)<br>
 
 ## Projects
 - [https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/](https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/)<br>
