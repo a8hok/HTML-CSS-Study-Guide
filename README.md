@@ -199,3 +199,6 @@ Table of Contents
 
 ## CSS frameworks
 - [https://chartscss.org/components/labels/](https://chartscss.org/components/labels/)<br>
+
+## Clean code
+- [https://www.freecodecamp.org/news/how-to-write-clean-code/](https://www.freecodecamp.org/news/how-to-write-clean-code/)<br>
