@@ -157,6 +157,7 @@ Table of Contents
 - [https://itnext.io/basic-css-resets-to-apply-in-every-app-9bd724dc4f49](https://itnext.io/basic-css-resets-to-apply-in-every-app-9bd724dc4f49)<br>
 - [https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/](https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/)<br>
 - [https://www.freecodecamp.org/news/responsive-design-best-practices/](https://www.freecodecamp.org/news/responsive-design-best-practices/)<br>
+- [https://www.freecodecamp.org/news/complete-guide-to-css-transform-functions-and-properties/](https://www.freecodecamp.org/news/complete-guide-to-css-transform-functions-and-properties/)<br>
 
 ## CSS variables
 - [https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855](https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855)<br>
