@@ -159,6 +159,7 @@ Table of Contents
 - [https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/](https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/)<br>
 - [https://www.freecodecamp.org/news/responsive-design-best-practices/](https://www.freecodecamp.org/news/responsive-design-best-practices/)<br>
 - [https://www.freecodecamp.org/news/complete-guide-to-css-transform-functions-and-properties/](https://www.freecodecamp.org/news/complete-guide-to-css-transform-functions-and-properties/)<br>
+- [https://blog.openreplay.com/removing-unused-css-with-purgecss/](https://blog.openreplay.com/removing-unused-css-with-purgecss/)<br>
 
 ## CSS variables
 - [https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855](https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855)<br>
