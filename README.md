@@ -101,6 +101,7 @@ Table of Contents
 - [https://www.atatus.com/blog/css-grid/](https://www.atatus.com/blog/css-grid/)<br>
 - [https://compile7.org/decompile/build-a-responsive-dashboard-layout-with-css-grid/](https://compile7.org/decompile/build-a-responsive-dashboard-layout-with-css-grid/)<br>
 - [https://www.sitepoint.com/css-container-queries-introduction/](https://www.sitepoint.com/css-container-queries-introduction/)<br>
+- [https://www.coltsteele.com/tutorials/mastering-css-grid](https://www.coltsteele.com/tutorials/mastering-css-grid)<br>
 
 
 ## CSS Hands-on
