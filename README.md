@@ -161,6 +161,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/complete-guide-to-css-transform-functions-and-properties/](https://www.freecodecamp.org/news/complete-guide-to-css-transform-functions-and-properties/)<br>
 - [https://blog.openreplay.com/removing-unused-css-with-purgecss/](https://blog.openreplay.com/removing-unused-css-with-purgecss/)<br>
 - [https://devdojo.com/superdev/enchancing-your-css-workflow-with-divmagic](https://devdojo.com/superdev/enchancing-your-css-workflow-with-divmagic)<br>
+- [https://medium.com/before-semicolon/50-css-best-practices-guidelines-to-write-better-css-c60807e9eee2](https://medium.com/before-semicolon/50-css-best-practices-guidelines-to-write-better-css-c60807e9eee2)<br>
 
 ## CSS variables
 - [https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855](https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855)<br>
