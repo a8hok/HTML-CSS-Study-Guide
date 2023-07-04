@@ -205,6 +205,7 @@ Table of Contents
 - [https://muffinman.io/](https://muffinman.io/)<br>
 - [https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-6/](https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-6/)<br>
 - [https://web.dev/patterns/](https://web.dev/patterns/)<br>
+- [https://www.freecodecamp.org/news/full-stack-engineer-career-guide/](https://www.freecodecamp.org/news/full-stack-engineer-career-guide/)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
