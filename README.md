@@ -204,6 +204,7 @@ Table of Contents
 - [https://hackernoon.com/a-beginners-guide-to-html-css-and-javascript?source=rss](https://hackernoon.com/a-beginners-guide-to-html-css-and-javascript?source=rss)<br>
 - [https://muffinman.io/](https://muffinman.io/)<br>
 - [https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-6/](https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-6/)<br>
+- [https://web.dev/patterns/](https://web.dev/patterns/)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
