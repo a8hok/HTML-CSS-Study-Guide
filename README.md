@@ -209,6 +209,7 @@ Table of Contents
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
+- [https://medium.com/codeart-mk/ui-ux-design-trends-2023-c7285391e610](https://medium.com/codeart-mk/ui-ux-design-trends-2023-c7285391e610)<br>
 
 ## Bootstrap
 - [https://bartwullems.blogspot.com/2023/05/bootstrap-5-showhide-images-on-specific.html](https://bartwullems.blogspot.com/2023/05/bootstrap-5-showhide-images-on-specific.html)<br>
