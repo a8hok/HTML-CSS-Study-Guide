@@ -34,6 +34,7 @@ Table of Contents
 - [https://www.html-code-generator.com/css/triangle-generator](https://www.html-code-generator.com/css/triangle-generator)<br>
 - [https://www.freecodecamp.org/news/html-page-elements/](https://www.freecodecamp.org/news/html-page-elements/)<br>
 
+
 ## CSS Learn
 - [https://levelup.gitconnected.com/css-layout-patterns-5-f63dab322c6](https://levelup.gitconnected.com/css-layout-patterns-5-f63dab322c6)<br>
 - [https://blog.openreplay.com/understanding-css-positioning(https://blog.openreplay.com/understanding-css-positioning)
@@ -91,6 +92,7 @@ Table of Contents
 - [https://jst.hashnode.dev/complete-css-flex-tutorial](https://jst.hashnode.dev/complete-css-flex-tutorial)<br>
 - [https://codingfantasy.com/games](https://codingfantasy.com/games)<br>
 - [https://ishadeed.com/article/flex-wrap-detect/](https://ishadeed.com/article/flex-wrap-detect/)<br>
+- [https://www.lambdatest.com/blog/css-box-model/](https://www.lambdatest.com/blog/css-box-model/)<br>
 
 ## CSS Grid
 - [https://jst.hashnode.dev/css-grid-tutorial](https://jst.hashnode.dev/css-grid-tutorial)<br>
