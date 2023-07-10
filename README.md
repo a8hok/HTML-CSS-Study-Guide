@@ -198,6 +198,9 @@ Table of Contents
 - [https://animatedbackgrounds.me/](https://animatedbackgrounds.me/)<br>
 - [https://www.kodingkitty.com/blog/](https://www.kodingkitty.com/blog/)<br>
 
+## CSS Libraries
+- [https://www.lambdatest.com/blog/bulma-css-framework/](https://www.lambdatest.com/blog/bulma-css-framework/)<br>
+
 ## Frontend
 - [https://techleadcuriosity.com/25-most-common-questions-asked-in-a-fronted-engineering-job-interview-b3f1337906ce](https://techleadcuriosity.com/25-most-common-questions-asked-in-a-fronted-engineering-job-interview-b3f1337906ce)<br>
 - [https://blog.bitsrc.io/microfrontends-with-graphql-how-to-simplify-data-fetching-and-communication-across-microservices-24e360acb802](https://blog.bitsrc.io/microfrontends-with-graphql-how-to-simplify-data-fetching-and-communication-across-microservices-24e360acb802)<br>
