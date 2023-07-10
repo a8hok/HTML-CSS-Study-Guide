@@ -211,6 +211,7 @@ Table of Contents
 - [https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-6/](https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-6/)<br>
 - [https://web.dev/patterns/](https://web.dev/patterns/)<br>
 - [https://www.freecodecamp.org/news/full-stack-engineer-career-guide/](https://www.freecodecamp.org/news/full-stack-engineer-career-guide/)<br>
+- [https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-7/](https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-7/)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
