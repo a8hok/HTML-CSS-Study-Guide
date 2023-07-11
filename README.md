@@ -86,6 +86,7 @@ Table of Contents
 - [https://ishadeed.com/article/css-wishlist-2023/](https://ishadeed.com/article/css-wishlist-2023/)<br>
 - [https://hackernoon.com/8-web-development-notes-you-might-find-useful?source=rss](https://hackernoon.com/8-web-development-notes-you-might-find-useful?source=rss)<br>
 - [https://javascript.plainenglish.io/how-css-works-5a9741cf4ab9](https://javascript.plainenglish.io/how-css-works-5a9741cf4ab9)<br>
+- [https://ishadeed.com/article/new-viewport-units/](https://ishadeed.com/article/new-viewport-units/)<br>
 
 
 ## CSS Flex Box
