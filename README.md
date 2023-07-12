@@ -139,6 +139,7 @@ Table of Contents
 - [https://arindam1729.hashnode.dev/getting-started-with-tailwind](https://arindam1729.hashnode.dev/getting-started-with-tailwind)<br>
 - [https://www.freecodecamp.org/news/what-is-tailwind-css-a-beginners-guide/](https://www.freecodecamp.org/news/what-is-tailwind-css-a-beginners-guide/)<br>
 - [https://dev.to/rarestoma/how-to-create-tailwind-css-dashboard-using-low-code-tutorial-42mj](https://dev.to/rarestoma/how-to-create-tailwind-css-dashboard-using-low-code-tutorial-42mj)<br>
+- [https://www.builder.io/blog/tailwind-css-tips-and-tricks](https://www.builder.io/blog/tailwind-css-tips-and-tricks)<br>
 
 ## Responsive
 - [https://css-tricks.com/fun-viewport-units/](https://css-tricks.com/fun-viewport-units/)<br>
