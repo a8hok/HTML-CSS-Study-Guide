@@ -181,6 +181,7 @@ Table of Contents
 ## SASS
 - [https://towardsdev.com/sass-syntactically-awesome-stylesheets-e36891d173c1](https://towardsdev.com/sass-syntactically-awesome-stylesheets-e36891d173c1)<br>
 - [https://uxplanet.org/exploring-the-variables-in-scss-ae963881173d](https://uxplanet.org/exploring-the-variables-in-scss-ae963881173d)<br>
+- [https://hackernoon.com/327-stories-to-learn-about-saas?source=rss](https://hackernoon.com/327-stories-to-learn-about-saas?source=rss)<br>
 
 ## Projects
 - [https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/](https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/)<br>
