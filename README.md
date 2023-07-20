@@ -221,6 +221,7 @@ Table of Contents
 - [https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-7/](https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-7/)<br>
 - [https://hackernoon.com/taking-a-journey-into-micro-frontend-migration-part-1-design?source=rss](https://hackernoon.com/taking-a-journey-into-micro-frontend-migration-part-1-design?source=rss)<br>
 - [https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-8/](https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-8/)<br>
+- [https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-9/](https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-9/)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
