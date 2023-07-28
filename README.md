@@ -33,6 +33,7 @@ Table of Contents
 - [https://hackernoon.com/71-stories-to-learn-about-html-css?source=rss](https://hackernoon.com/71-stories-to-learn-about-html-css?source=rss)<br>
 - [https://www.html-code-generator.com/css/triangle-generator](https://www.html-code-generator.com/css/triangle-generator)<br>
 - [https://www.freecodecamp.org/news/html-page-elements/](https://www.freecodecamp.org/news/html-page-elements/)<br>
+- [https://www.freecodecamp.org/news/how-to-write-faster-html-and-css-using-emmet/](https://www.freecodecamp.org/news/how-to-write-faster-html-and-css-using-emmet/)<br>
 
 
 ## CSS Learn
