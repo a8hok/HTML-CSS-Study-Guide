@@ -224,6 +224,7 @@ Table of Contents
 - [https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-8/](https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-8/)<br>
 - [https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-9/](https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-9/)<br>
 - [https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-4/](https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-4/)<br>
+- [https://www.telerik.com/blogs/developers-guide-implementing-design-system-part-1](https://www.telerik.com/blogs/developers-guide-implementing-design-system-part-1)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
