@@ -34,6 +34,7 @@ Table of Contents
 - [https://www.html-code-generator.com/css/triangle-generator](https://www.html-code-generator.com/css/triangle-generator)<br>
 - [https://www.freecodecamp.org/news/html-page-elements/](https://www.freecodecamp.org/news/html-page-elements/)<br>
 - [https://www.freecodecamp.org/news/how-to-write-faster-html-and-css-using-emmet/](https://www.freecodecamp.org/news/how-to-write-faster-html-and-css-using-emmet/)<br>
+- [https://blog.openreplay.com/prefetching-preloading-and-prerendering-in-html/](https://blog.openreplay.com/prefetching-preloading-and-prerendering-in-html/)<br>
 
 
 ## CSS Learn
