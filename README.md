@@ -207,6 +207,7 @@ Table of Contents
 
 ## CSS Libraries
 - [https://www.lambdatest.com/blog/bulma-css-framework/](https://www.lambdatest.com/blog/bulma-css-framework/)<br>
+- [https://lightningcss.dev/docs.html](https://lightningcss.dev/docs.html)<br>
 
 ## Frontend
 - [https://techleadcuriosity.com/25-most-common-questions-asked-in-a-fronted-engineering-job-interview-b3f1337906ce](https://techleadcuriosity.com/25-most-common-questions-asked-in-a-fronted-engineering-job-interview-b3f1337906ce)<br>
