@@ -90,6 +90,7 @@ Table of Contents
 - [https://hackernoon.com/8-web-development-notes-you-might-find-useful?source=rss](https://hackernoon.com/8-web-development-notes-you-might-find-useful?source=rss)<br>
 - [https://javascript.plainenglish.io/how-css-works-5a9741cf4ab9](https://javascript.plainenglish.io/how-css-works-5a9741cf4ab9)<br>
 - [https://ishadeed.com/article/new-viewport-units/](https://ishadeed.com/article/new-viewport-units/)<br>
+- [https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/](https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/)<br>
 
 
 ## CSS Flex Box
