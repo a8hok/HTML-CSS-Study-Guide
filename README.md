@@ -91,6 +91,7 @@ Table of Contents
 - [https://javascript.plainenglish.io/how-css-works-5a9741cf4ab9](https://javascript.plainenglish.io/how-css-works-5a9741cf4ab9)<br>
 - [https://ishadeed.com/article/new-viewport-units/](https://ishadeed.com/article/new-viewport-units/)<br>
 - [https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/](https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/)<br>
+- [https://www.freecodecamp.org/news/html-css-handbook-for-beginners/](https://www.freecodecamp.org/news/html-css-handbook-for-beginners/)<br>
 
 
 ## CSS Flex Box
