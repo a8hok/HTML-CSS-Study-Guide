@@ -181,6 +181,7 @@ Table of Contents
 ## CSS variables
 - [https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855](https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855)<br>
 - [https://blog.bitsrc.io/difference-between-design-tokens-and-design-variables-in-css-8809b7f3b5c8](https://blog.bitsrc.io/difference-between-design-tokens-and-design-variables-in-css-8809b7f3b5c8)<br>
+- [https://stackabuse.com/manipulating-css-pseudo-elements-before-and-after-using-javascript-jquery/](https://stackabuse.com/manipulating-css-pseudo-elements-before-and-after-using-javascript-jquery/)<br>
 
 
 ## SASS
