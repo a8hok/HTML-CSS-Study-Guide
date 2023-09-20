@@ -250,3 +250,9 @@ Table of Contents
 
 ## Clean code
 - [https://www.freecodecamp.org/news/how-to-write-clean-code/](https://www.freecodecamp.org/news/how-to-write-clean-code/)<br>
+
+## HTML templates
+- []()<br>
+
+## Free project resources and code
+- [https://dribbble.com/shots/22514979-Free-Ecommerce-UI-Kit](https://dribbble.com/shots/22514979-Free-Ecommerce-UI-Kit)<br>
