@@ -238,6 +238,7 @@ Table of Contents
 - [https://leetcode.com/discuss/interview-question/742791/Front-End-Interview-Questions](https://leetcode.com/discuss/interview-question/742791/Front-End-Interview-Questions)<br>
 - [https://2023.stateofcss.com/en-US](https://2023.stateofcss.com/en-US)<br>
 - [https://www.freecodecamp.org/news/freecodecamp-press-books-handbooks/](https://www.freecodecamp.org/news/freecodecamp-press-books-handbooks/)<br>
+- [https://www.freecodecamp.org/news/frontend-web-development-in-depth-project-tutorial/](https://www.freecodecamp.org/news/frontend-web-development-in-depth-project-tutorial/)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
