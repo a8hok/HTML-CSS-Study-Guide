@@ -185,6 +185,7 @@ Table of Contents
 - [https://blog.bitsrc.io/difference-between-design-tokens-and-design-variables-in-css-8809b7f3b5c8](https://blog.bitsrc.io/difference-between-design-tokens-and-design-variables-in-css-8809b7f3b5c8)<br>
 - [https://stackabuse.com/manipulating-css-pseudo-elements-before-and-after-using-javascript-jquery/](https://stackabuse.com/manipulating-css-pseudo-elements-before-and-after-using-javascript-jquery/)<br>
 - [https://ishadeed.com/article/css-vars-101/](https://ishadeed.com/article/css-vars-101/)<br>
+- [https://cloudfour.com/thinks/when-to-nest-css/?ref=dailydev](https://cloudfour.com/thinks/when-to-nest-css/?ref=dailydev)<br>
 
 
 ## SASS
