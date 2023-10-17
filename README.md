@@ -240,6 +240,7 @@ Table of Contents
 - [https://2023.stateofcss.com/en-US](https://2023.stateofcss.com/en-US)<br>
 - [https://www.freecodecamp.org/news/freecodecamp-press-books-handbooks/](https://www.freecodecamp.org/news/freecodecamp-press-books-handbooks/)<br>
 - [https://www.freecodecamp.org/news/frontend-web-development-in-depth-project-tutorial/](https://www.freecodecamp.org/news/frontend-web-development-in-depth-project-tutorial/)<br>
+- [https://hackernoon.com/front-end-optimization-my-journey-to-accelerate-load-times-in-heavy-front-end?source=rss&ref=dailydev](https://hackernoon.com/front-end-optimization-my-journey-to-accelerate-load-times-in-heavy-front-end?source=rss&ref=dailydev)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
