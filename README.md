@@ -81,6 +81,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/complete-guide-to-css-transform-functions-and-properties/](https://www.freecodecamp.org/news/complete-guide-to-css-transform-functions-and-properties/)<br>
 - [https://blog.logrocket.com/css-logical-properties-guide/](https://blog.logrocket.com/css-logical-properties-guide/)<br>
 - [https://www.freecodecamp.org/news/how-to-use-css-selectors/](https://www.freecodecamp.org/news/how-to-use-css-selectors/)<br>
+- [https://developer.chrome.com/blog/css-text-wrap-pretty/?ref=dailydev](https://developer.chrome.com/blog/css-text-wrap-pretty/?ref=dailydev)<br>
 
 
 ## CSS Resources
