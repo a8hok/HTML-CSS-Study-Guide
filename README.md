@@ -205,6 +205,7 @@ Table of Contents
 - [https://www.geekshelp.in/p/html-css-projects_5.html](https://www.geekshelp.in/p/html-css-projects_5.html)<br>
 - [https://dev.to/ryandsouza13/create-a-simple-digital-clock-using-html-css-and-javascript-3h53](https://dev.to/ryandsouza13/create-a-simple-digital-clock-using-html-css-and-javascript-3h53)<br>
 - [https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/](https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/)<br>
+- [https://dev.to/swirl/24-best-resources-for-web-developers-html-css-javascript--2hog](https://dev.to/swirl/24-best-resources-for-web-developers-html-css-javascript--2hog)<br>
 
 ## Courses
 - [https://www.simplilearn.com/front-end-developer-free-course-skillup](https://www.simplilearn.com/front-end-developer-free-course-skillup)<br>
