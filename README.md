@@ -210,6 +210,7 @@ Table of Contents
 - [https://dev.to/ryandsouza13/create-a-simple-digital-clock-using-html-css-and-javascript-3h53](https://dev.to/ryandsouza13/create-a-simple-digital-clock-using-html-css-and-javascript-3h53)<br>
 - [https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/](https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/)<br>
 - [https://dev.to/swirl/24-best-resources-for-web-developers-html-css-javascript--2hog](https://dev.to/swirl/24-best-resources-for-web-developers-html-css-javascript--2hog)<br>
+- [https://www.freecodecamp.org/news/practice-html-css-and-javascript-by-building-7-projects/?ref=dailydev](https://www.freecodecamp.org/news/practice-html-css-and-javascript-by-building-7-projects/?ref=dailydev)<br>
 
 ## Courses
 - [https://www.simplilearn.com/front-end-developer-free-course-skillup](https://www.simplilearn.com/front-end-developer-free-course-skillup)<br>
