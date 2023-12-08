@@ -279,3 +279,6 @@ Table of Contents
 
 ## SEO
 - [https://blog.openreplay.com/seo-basics-for-web-developers/?ref=dailydev](https://blog.openreplay.com/seo-basics-for-web-developers/?ref=dailydev)<br>
+
+## Image Handling
+- [https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/](https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/)<br>
