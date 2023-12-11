@@ -185,6 +185,7 @@ Table of Contents
 - [https://dzone.com/articles/best-15-css-trends-to-watch-for](https://dzone.com/articles/best-15-css-trends-to-watch-for)<br>
 - [https://andy-bell.co.uk/a-more-modern-css-reset/](https://andy-bell.co.uk/a-more-modern-css-reset/)<br>
 - [https://dev.to/francescovetere/css-trick-transition-from-height-0-to-auto-21de?ref=dailydev](https://dev.to/francescovetere/css-trick-transition-from-height-0-to-auto-21de?ref=dailydev)<br>
+- [https://blog.openreplay.com/hiding-elements-with-css/?ref=dailydev](https://blog.openreplay.com/hiding-elements-with-css/?ref=dailydev)<br>
 
 ## CSS variables
 - [https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855](https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855)<br>
