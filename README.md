@@ -36,6 +36,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-write-faster-html-and-css-using-emmet/](https://www.freecodecamp.org/news/how-to-write-faster-html-and-css-using-emmet/)<br>
 - [https://blog.openreplay.com/prefetching-preloading-and-prerendering-in-html/](https://blog.openreplay.com/prefetching-preloading-and-prerendering-in-html/)<br>
 - [https://www.freecodecamp.org/news/html-css-handbook-for-beginners/](https://www.freecodecamp.org/news/html-css-handbook-for-beginners/)<br>
+- [https://www.freecodecamp.org/news/innerhtml-vs-innertext-vs-textcontent/?ref=dailydev](https://www.freecodecamp.org/news/innerhtml-vs-innertext-vs-textcontent/?ref=dailydev)<br>
 
 
 ## CSS Learn
