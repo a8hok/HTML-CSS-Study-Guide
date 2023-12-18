@@ -284,3 +284,6 @@ Table of Contents
 
 ## Image Handling
 - [https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/](https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/)<br>
+
+## Figma
+- [https://www.freecodecamp.org/news/variables-in-figma-handbook/?ref=dailydev](https://www.freecodecamp.org/news/variables-in-figma-handbook/?ref=dailydev)<br>
