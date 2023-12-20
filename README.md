@@ -290,3 +290,4 @@ Table of Contents
 
 ## CSS container queries
 - [https://www.turing.com/kb/responsive-layouts-using-css-grid?ref=dailydev](https://www.turing.com/kb/responsive-layouts-using-css-grid?ref=dailydev)<br>
+- [https://developer.mozilla.org/en-US/blog/getting-started-with-css-container-queries/?ref=dailydev](https://developer.mozilla.org/en-US/blog/getting-started-with-css-container-queries/?ref=dailydev)<br>
