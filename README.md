@@ -255,6 +255,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/frontend-web-development-in-depth-project-tutorial/](https://www.freecodecamp.org/news/frontend-web-development-in-depth-project-tutorial/)<br>
 - [https://hackernoon.com/front-end-optimization-my-journey-to-accelerate-load-times-in-heavy-front-end?source=rss&ref=dailydev](https://hackernoon.com/front-end-optimization-my-journey-to-accelerate-load-times-in-heavy-front-end?source=rss&ref=dailydev)<br>
 - [https://dev.to/idboussadel/how-to-become-a-10x-dev-ake?ref=dailydev](https://dev.to/idboussadel/how-to-become-a-10x-dev-ake?ref=dailydev)<br>
+- [https://www.htmhell.dev/adventcalendar/2023/14/?ref=dailydev](https://www.htmhell.dev/adventcalendar/2023/14/?ref=dailydev)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
