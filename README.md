@@ -296,3 +296,6 @@ Table of Contents
 
 ## Web accessibility
 - [https://www.freecodecamp.org/news/web-accessibility-best-practices/?ref=dailydev](https://www.freecodecamp.org/news/web-accessibility-best-practices/?ref=dailydev)<br>
+
+## CSS new features
+- [https://www.builder.io/blog/css-2024-has?ref=dailydev](https://www.builder.io/blog/css-2024-has?ref=dailydev)<br>
