@@ -299,3 +299,6 @@ Table of Contents
 
 ## CSS new features
 - [https://www.builder.io/blog/css-2024-has?ref=dailydev](https://www.builder.io/blog/css-2024-has?ref=dailydev)<br>
+
+## Free books
+- [https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br>
