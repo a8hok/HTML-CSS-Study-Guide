@@ -188,6 +188,7 @@ Table of Contents
 - [https://dev.to/francescovetere/css-trick-transition-from-height-0-to-auto-21de?ref=dailydev](https://dev.to/francescovetere/css-trick-transition-from-height-0-to-auto-21de?ref=dailydev)<br>
 - [https://blog.openreplay.com/hiding-elements-with-css/?ref=dailydev](https://blog.openreplay.com/hiding-elements-with-css/?ref=dailydev)<br>
 - [https://web.dev/articles/6-css-snippets-every-front-end-developer-should-know-in-2023](https://web.dev/articles/6-css-snippets-every-front-end-developer-should-know-in-2023)<br>
+- [https://github.com/AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips)<br>
 
 ## CSS variables
 - [https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855](https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855)<br>
