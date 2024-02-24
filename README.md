@@ -260,6 +260,7 @@ Table of Contents
 - [https://hackernoon.com/front-end-optimization-my-journey-to-accelerate-load-times-in-heavy-front-end?source=rss&ref=dailydev](https://hackernoon.com/front-end-optimization-my-journey-to-accelerate-load-times-in-heavy-front-end?source=rss&ref=dailydev)<br>
 - [https://dev.to/idboussadel/how-to-become-a-10x-dev-ake?ref=dailydev](https://dev.to/idboussadel/how-to-become-a-10x-dev-ake?ref=dailydev)<br>
 - [https://www.htmhell.dev/adventcalendar/2023/14/?ref=dailydev](https://www.htmhell.dev/adventcalendar/2023/14/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/front-end-developer-roadmap/](https://www.freecodecamp.org/news/front-end-developer-roadmap/)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
