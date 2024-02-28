@@ -261,6 +261,7 @@ Table of Contents
 - [https://dev.to/idboussadel/how-to-become-a-10x-dev-ake?ref=dailydev](https://dev.to/idboussadel/how-to-become-a-10x-dev-ake?ref=dailydev)<br>
 - [https://www.htmhell.dev/adventcalendar/2023/14/?ref=dailydev](https://www.htmhell.dev/adventcalendar/2023/14/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/front-end-developer-roadmap/](https://www.freecodecamp.org/news/front-end-developer-roadmap/)<br>
+- [https://dev.to/lilxyzz/web-development-tools-and-resources-24m8?ref=dailydev](https://dev.to/lilxyzz/web-development-tools-and-resources-24m8?ref=dailydev)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
