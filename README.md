@@ -1,20 +1,40 @@
-# HTML&CSS Preparation
+# HTML&CSS Study Guide
 
 Table of Contents
 =================
 
-   * [DOM](#dom)
-   * [HTML](#html)
-   * [CSS Learn](#css-learn)
-   * [CSS Resources](#css-resources)
-   * [CSS Flex Box](#css-flex-box)
-   * [CSS Grid](#css-grid)
-   * [CSS Hands-on](#css-hands-on)
-   * [BEM](#bem)
-   * [Tailwind CSS](#tailwind-css)
-   * [Responsive](#responsive)
-   * [CSS tips and Tricks](#css-tips-and-tricks)
-   * [CSS variables](#css-variables)
+  * [DOM](#dom)
+  * [HTML](#html)
+  * [CSS Learn](#css-learn)
+  * [CSS Resources](#css-resources)
+  * [CSS Flex Box](#css-flex-box)
+  * [CSS Grid](#css-grid)
+  * [CSS Hands-on](#css-hands-on)
+  * [BEM](#bem)
+  * [Tailwind CSS](#tailwind-css)
+  * [Responsive](#responsive)
+  * [CSS tips and Tricks](#css-tips-and-tricks)
+  * [CSS variables](#css-variables)
+  * [SASS](#sass)
+  * [Projects](#projects)
+  * [Courses](#courses)
+  * [CSS challenges](#css-challenges)
+  * [CSS Libraries](#css-libraries)
+  * [CSS Units](#css-units)
+  * [Frontend](#frontend)
+  * [UX](#ux)
+  * [Bootstrap](#bootstrap)
+  * [CSS frameworks](#css-frameworks)
+  * [Clean code](#clean-code)
+  * [Books](#books)
+  * [Free project resources and code](#free-project-resources-and-code)
+  * [SEO](#seo)
+  * [Image Handling](#image-handling)
+  * [Figma](#figma)
+  * [CSS container queries](#css-container-queries)
+  * [Web accessibility](#web-accessibility)
+  * [CSS new features](#css-new-features)
+  * [Free books](#free-books)
 
 ## DOM
 - [https://www.freecodecamp.org/news/javascript-dom-manipulation/](https://www.freecodecamp.org/news/javascript-dom-manipulation/)<br>
