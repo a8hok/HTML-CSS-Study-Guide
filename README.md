@@ -282,6 +282,7 @@ Table of Contents
 - [https://www.htmhell.dev/adventcalendar/2023/14/?ref=dailydev](https://www.htmhell.dev/adventcalendar/2023/14/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/front-end-developer-roadmap/](https://www.freecodecamp.org/news/front-end-developer-roadmap/)<br>
 - [https://dev.to/lilxyzz/web-development-tools-and-resources-24m8?ref=dailydev](https://dev.to/lilxyzz/web-development-tools-and-resources-24m8?ref=dailydev)<br>
+- [https://dev.to/sufian/5-essential-practices-for-front-end-developers-react-edition-3h96?ref=dailydev](https://dev.to/sufian/5-essential-practices-for-front-end-developers-react-edition-3h96?ref=dailydev)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
