@@ -329,3 +329,6 @@ Table of Contents
 
 ## Free books
 - [https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br>
+
+## CSS Tools
+- [https://dev.to/lilxyzz/useful-css-tools-17bc?ref=dailydev](https://dev.to/lilxyzz/useful-css-tools-17bc?ref=dailydev)<br>
