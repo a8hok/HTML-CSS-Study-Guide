@@ -297,6 +297,7 @@ Table of Contents
 - [https://www.telerik.com/blogs/zero-runtime-css-vanilla-extract](https://www.telerik.com/blogs/zero-runtime-css-vanilla-extract)<br>
 - [https://www.freecodecamp.org/news/css-frameworks-vs-custom-css/?ref=dailydev](https://www.freecodecamp.org/news/css-frameworks-vs-custom-css/?ref=dailydev)<br>
 - [https://cube.fyi/?ref=dailydev](https://cube.fyi/?ref=dailydev)<br>
+- [https://nuejs.org/blog/introducing-nue-css/?ref=dailydev](https://nuejs.org/blog/introducing-nue-css/?ref=dailydev)<br>
 
 ## Clean code
 - [https://www.freecodecamp.org/news/how-to-write-clean-code/](https://www.freecodecamp.org/news/how-to-write-clean-code/)<br>
