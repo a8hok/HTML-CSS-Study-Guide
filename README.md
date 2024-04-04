@@ -219,6 +219,7 @@ Table of Contents
 - [https://stackabuse.com/manipulating-css-pseudo-elements-before-and-after-using-javascript-jquery/](https://stackabuse.com/manipulating-css-pseudo-elements-before-and-after-using-javascript-jquery/)<br>
 - [https://ishadeed.com/article/css-vars-101/](https://ishadeed.com/article/css-vars-101/)<br>
 - [https://cloudfour.com/thinks/when-to-nest-css/?ref=dailydev](https://cloudfour.com/thinks/when-to-nest-css/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/how-to-use-css-variables/](https://www.freecodecamp.org/news/how-to-use-css-variables/)<br>
 
 
 ## SASS
