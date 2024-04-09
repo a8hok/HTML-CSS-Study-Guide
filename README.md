@@ -58,6 +58,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/html-css-handbook-for-beginners/](https://www.freecodecamp.org/news/html-css-handbook-for-beginners/)<br>
 - [https://www.freecodecamp.org/news/innerhtml-vs-innertext-vs-textcontent/?ref=dailydev](https://www.freecodecamp.org/news/innerhtml-vs-innertext-vs-textcontent/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-use-html-forms/?ref=dailydev](https://www.freecodecamp.org/news/how-to-use-html-forms/?ref=dailydev)<br>
+- [https://dev.to/devshefali/21-html-tips-you-must-know-about-55j7?ref=dailydev](https://dev.to/devshefali/21-html-tips-you-must-know-about-55j7?ref=dailydev)<br>
 
 
 ## CSS Learn
