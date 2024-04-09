@@ -141,6 +141,9 @@ Table of Contents
 - [https://www.joshwcomeau.com/css/interactive-guide-to-grid/?ref=dailydev](https://www.joshwcomeau.com/css/interactive-guide-to-grid/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/bento-grids-in-web-design/](https://www.freecodecamp.org/news/bento-grids-in-web-design/)<br>
 
+## CSS Grid vs FlexBox
+- [https://webdesign.tutsplus.com/flexbox-vs-css-grid-which-should-you-use--cms-30184a?ref=dailydev](https://webdesign.tutsplus.com/flexbox-vs-css-grid-which-should-you-use--cms-30184a?ref=dailydev)<br>
+
 
 ## CSS Hands-on
 - [https://www.hyperui.dev/components/ecommerce/carts](https://www.hyperui.dev/components/ecommerce/carts)<br>
