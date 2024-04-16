@@ -253,6 +253,7 @@ Table of Contents
 - [https://uiverse.io/challenges](https://uiverse.io/challenges)<br>
 - [https://animatedbackgrounds.me/](https://animatedbackgrounds.me/)<br>
 - [https://www.kodingkitty.com/blog/](https://www.kodingkitty.com/blog/)<br>
+- [https://blog.openreplay.com/ten-css-tricks-to-improve-your-design-game/?ref=dailydev](https://blog.openreplay.com/ten-css-tricks-to-improve-your-design-game/?ref=dailydev)<br>
 
 ## CSS Libraries
 - [https://www.lambdatest.com/blog/bulma-css-framework/](https://www.lambdatest.com/blog/bulma-css-framework/)<br>
@@ -312,6 +313,8 @@ Table of Contents
 
 ## Books
 - [https://levelup.gitconnected.com/10-best-coding-and-programming-interview-books-in-2023-7c90d158e51b](https://levelup.gitconnected.com/10-best-coding-and-programming-interview-books-in-2023-7c90d158e51b)<br>
+- [https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br>
+
 
 ## Free project resources and code
 - [https://dribbble.com/shots/22514979-Free-Ecommerce-UI-Kit](https://dribbble.com/shots/22514979-Free-Ecommerce-UI-Kit)<br>
@@ -336,8 +339,6 @@ Table of Contents
 ## CSS new features
 - [https://www.builder.io/blog/css-2024-has?ref=dailydev](https://www.builder.io/blog/css-2024-has?ref=dailydev)<br>
 
-## Free books
-- [https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br>
 
 ## CSS Tools
 - [https://dev.to/lilxyzz/useful-css-tools-17bc?ref=dailydev](https://dev.to/lilxyzz/useful-css-tools-17bc?ref=dailydev)<br>
