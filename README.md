@@ -217,6 +217,7 @@ Table of Contents
 - [https://web.dev/articles/6-css-snippets-every-front-end-developer-should-know-in-2023](https://web.dev/articles/6-css-snippets-every-front-end-developer-should-know-in-2023)<br>
 - [https://github.com/AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips)<br>
 - [https://blog.bitsrc.io/10-css-one-liners-to-transform-your-web-app-04306968c6c7](https://blog.bitsrc.io/10-css-one-liners-to-transform-your-web-app-04306968c6c7)<br>
+- [https://css-tip.com/better-modern-css/?ref=dailydev](https://css-tip.com/better-modern-css/?ref=dailydev)<br>
 
 ## CSS variables
 - [https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855](https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855)<br>
