@@ -259,6 +259,7 @@ Table of Contents
 ## CSS Libraries
 - [https://www.lambdatest.com/blog/bulma-css-framework/](https://www.lambdatest.com/blog/bulma-css-framework/)<br>
 - [https://lightningcss.dev/docs.html](https://lightningcss.dev/docs.html)<br>
+- [https://awesome-shadcn-ui.vercel.app/?ref=dailydev](https://awesome-shadcn-ui.vercel.app/?ref=dailydev)<br>
 
 ## CSS Units
 - [https://dev.to/matthias/units-in-css-em-rem-pt-px-vw-vh-vmin-vmax-ex-ch-53l0?ref=dailydev](https://dev.to/matthias/units-in-css-em-rem-pt-px-vw-vh-vmin-vmax-ex-ch-53l0?ref=dailydev)<br>
