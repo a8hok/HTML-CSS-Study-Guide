@@ -335,6 +335,7 @@ Table of Contents
 ## CSS container queries
 - [https://www.turing.com/kb/responsive-layouts-using-css-grid?ref=dailydev](https://www.turing.com/kb/responsive-layouts-using-css-grid?ref=dailydev)<br>
 - [https://developer.mozilla.org/en-US/blog/getting-started-with-css-container-queries/?ref=dailydev](https://developer.mozilla.org/en-US/blog/getting-started-with-css-container-queries/?ref=dailydev)<br>
+- [https://css-tricks.com/css-container-queries/?ref=dailydev](https://css-tricks.com/css-container-queries/?ref=dailydev)<br>
 
 ## Web accessibility
 - [https://www.freecodecamp.org/news/web-accessibility-best-practices/?ref=dailydev](https://www.freecodecamp.org/news/web-accessibility-best-practices/?ref=dailydev)<br>
