@@ -323,6 +323,7 @@ Table of Contents
 ## Free project resources and code
 - [https://dribbble.com/shots/22514979-Free-Ecommerce-UI-Kit](https://dribbble.com/shots/22514979-Free-Ecommerce-UI-Kit)<br>
 - [https://mobirise.com/html-templates/](https://mobirise.com/html-templates/)<br>
+- [https://dev.to/bigsondev/100-free-frontend-challenges-3f0?ref=dailydev](https://dev.to/bigsondev/100-free-frontend-challenges-3f0?ref=dailydev)<br>
 
 ## SEO
 - [https://blog.openreplay.com/seo-basics-for-web-developers/?ref=dailydev](https://blog.openreplay.com/seo-basics-for-web-developers/?ref=dailydev)<br>
