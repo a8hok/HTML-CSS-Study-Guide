@@ -326,6 +326,7 @@ Table of Contents
 - [https://dribbble.com/shots/22514979-Free-Ecommerce-UI-Kit](https://dribbble.com/shots/22514979-Free-Ecommerce-UI-Kit)<br>
 - [https://mobirise.com/html-templates/](https://mobirise.com/html-templates/)<br>
 - [https://dev.to/bigsondev/100-free-frontend-challenges-3f0?ref=dailydev](https://dev.to/bigsondev/100-free-frontend-challenges-3f0?ref=dailydev)<br>
+- [https://app.bigdevsoon.me/challenges](https://app.bigdevsoon.me/challenges)<br>
 
 ## SEO
 - [https://blog.openreplay.com/seo-basics-for-web-developers/?ref=dailydev](https://blog.openreplay.com/seo-basics-for-web-developers/?ref=dailydev)<br>
