@@ -140,6 +140,7 @@ Table of Contents
 - [https://www.coltsteele.com/tutorials/mastering-css-grid](https://www.coltsteele.com/tutorials/mastering-css-grid)<br>
 - [https://www.joshwcomeau.com/css/interactive-guide-to-grid/?ref=dailydev](https://www.joshwcomeau.com/css/interactive-guide-to-grid/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/bento-grids-in-web-design/](https://www.freecodecamp.org/news/bento-grids-in-web-design/)<br>
+- [https://www.lambdatest.com/blog/css-grid-best-practices/?ref=dailydev](https://www.lambdatest.com/blog/css-grid-best-practices/?ref=dailydev)<br>
 
 ## CSS Grid vs FlexBox
 - [https://webdesign.tutsplus.com/flexbox-vs-css-grid-which-should-you-use--cms-30184a?ref=dailydev](https://webdesign.tutsplus.com/flexbox-vs-css-grid-which-should-you-use--cms-30184a?ref=dailydev)<br>
