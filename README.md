@@ -228,6 +228,7 @@ Table of Contents
 - [https://ishadeed.com/article/css-vars-101/](https://ishadeed.com/article/css-vars-101/)<br>
 - [https://cloudfour.com/thinks/when-to-nest-css/?ref=dailydev](https://cloudfour.com/thinks/when-to-nest-css/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-use-css-variables/](https://www.freecodecamp.org/news/how-to-use-css-variables/)<br>
+- [https://kaderbiral26.medium.com/15-useful-css-properties-you-should-know-about-d924343d6f9c](https://kaderbiral26.medium.com/15-useful-css-properties-you-should-know-about-d924343d6f9c)<br>
 
 
 ## SASS
@@ -351,7 +352,6 @@ Table of Contents
 
 ## CSS new features
 - [https://www.builder.io/blog/css-2024-has?ref=dailydev](https://www.builder.io/blog/css-2024-has?ref=dailydev)<br>
-
 
 ## CSS Tools
 - [https://dev.to/lilxyzz/useful-css-tools-17bc?ref=dailydev](https://dev.to/lilxyzz/useful-css-tools-17bc?ref=dailydev)<br>
