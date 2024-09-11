@@ -106,6 +106,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-use-css-selectors/](https://www.freecodecamp.org/news/how-to-use-css-selectors/)<br>
 - [https://developer.chrome.com/blog/css-text-wrap-pretty/?ref=dailydev](https://developer.chrome.com/blog/css-text-wrap-pretty/?ref=dailydev)<br>
 - [https://ishadeed.com/article/css-nesting/?ref=dailydev](https://ishadeed.com/article/css-nesting/?ref=dailydev)<br>
+- [https://css-triggers.com/?ref=dailydev](https://css-triggers.com/?ref=dailydev)<br>
 
 
 ## CSS Resources
