@@ -302,6 +302,7 @@ Table of Contents
 - [https://dev.to/sufian/5-essential-practices-for-front-end-developers-react-edition-3h96?ref=dailydev](https://dev.to/sufian/5-essential-practices-for-front-end-developers-react-edition-3h96?ref=dailydev)<br>
 - [https://dev.to/matin676/frontend-libraries-for-your-next-project-4fkl?ref=dailydev](https://dev.to/matin676/frontend-libraries-for-your-next-project-4fkl?ref=dailydev)<br>
 - [https://medium.com/@rhythmusbyte/frontend-development-resources-633188cecf22](https://medium.com/@rhythmusbyte/frontend-development-resources-633188cecf22)<br>
+- [https://dev.to/roadmapsh/mastering-frontend-development-1n01?ref=dailydev](https://dev.to/roadmapsh/mastering-frontend-development-1n01?ref=dailydev)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
