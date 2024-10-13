@@ -183,6 +183,7 @@ Table of Contents
 - [https://dev.to/rarestoma/how-to-create-tailwind-css-dashboard-using-low-code-tutorial-42mj](https://dev.to/rarestoma/how-to-create-tailwind-css-dashboard-using-low-code-tutorial-42mj)<br>
 - [https://www.builder.io/blog/tailwind-css-tips-and-tricks](https://www.builder.io/blog/tailwind-css-tips-and-tricks)<br>
 - [https://uxplanet.org/building-a-design-system-with-tailwind-css-a-step-by-step-guide-f03f99f87aba](https://uxplanet.org/building-a-design-system-with-tailwind-css-a-step-by-step-guide-f03f99f87aba)<br>
+- [https://www.freecodecamp.org/news/learn-tailwind-css-by-building-a-responsive-product-card/](https://www.freecodecamp.org/news/learn-tailwind-css-by-building-a-responsive-product-card/)<br>
 
 ## Responsive
 - [https://css-tricks.com/fun-viewport-units/](https://css-tricks.com/fun-viewport-units/)<br>
@@ -362,3 +363,5 @@ Table of Contents
 
 ## HTMX
 - [https://dev.to/ethand91/simple-introduction-to-htmx-18fg?ref=dailydev](https://dev.to/ethand91/simple-introduction-to-htmx-18fg?ref=dailydev)<br>
+
+
