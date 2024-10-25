@@ -306,6 +306,7 @@ Table of Contents
 - [https://medium.com/@rhythmusbyte/frontend-development-resources-633188cecf22](https://medium.com/@rhythmusbyte/frontend-development-resources-633188cecf22)<br>
 - [https://dev.to/roadmapsh/mastering-frontend-development-1n01?ref=dailydev](https://dev.to/roadmapsh/mastering-frontend-development-1n01?ref=dailydev)<br>
 - [https://medium.com/@hii_mohit/8-essential-tools-for-frontend-developers-in-2024-f2bdefe2f253](https://medium.com/@hii_mohit/8-essential-tools-for-frontend-developers-in-2024-f2bdefe2f253)<br>
+- [https://www.builder.io/blog/high-performance-personalization?ref=dailydev](https://www.builder.io/blog/high-performance-personalization?ref=dailydev)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
