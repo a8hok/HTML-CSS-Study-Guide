@@ -225,6 +225,7 @@ Table of Contents
 - [https://github.com/AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips)<br>
 - [https://blog.bitsrc.io/10-css-one-liners-to-transform-your-web-app-04306968c6c7](https://blog.bitsrc.io/10-css-one-liners-to-transform-your-web-app-04306968c6c7)<br>
 - [https://css-tip.com/better-modern-css/?ref=dailydev](https://css-tip.com/better-modern-css/?ref=dailydev)<br>
+- [ https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/?ref=dailydev](https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/?ref=dailydev)<br>
 
 ## CSS variables
 - [https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855](https://medium.com/free-code-camp/everything-you-need-to-know-about-css-variables-c74d922ea855)<br>
