@@ -256,6 +256,7 @@ Table of Contents
 - [https://dev.to/swirl/24-best-resources-for-web-developers-html-css-javascript--2hog](https://dev.to/swirl/24-best-resources-for-web-developers-html-css-javascript--2hog)<br>
 - [https://www.freecodecamp.org/news/practice-html-css-and-javascript-by-building-7-projects/?ref=dailydev](https://www.freecodecamp.org/news/practice-html-css-and-javascript-by-building-7-projects/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/create-24-css-projects/?ref=dailydev](https://www.freecodecamp.org/news/create-24-css-projects/?ref=dailydev)<br>
+- [https://www.deepdev.org/blog/html-css-portfolio-project-ideas?ref=dailydev](https://www.deepdev.org/blog/html-css-portfolio-project-ideas?ref=dailydev),br>
 
 ## Courses
 - [https://www.simplilearn.com/front-end-developer-free-course-skillup](https://www.simplilearn.com/front-end-developer-free-course-skillup)<br>
