@@ -312,6 +312,7 @@ Table of Contents
 - [https://medium.com/@hii_mohit/8-essential-tools-for-frontend-developers-in-2024-f2bdefe2f253](https://medium.com/@hii_mohit/8-essential-tools-for-frontend-developers-in-2024-f2bdefe2f253)<br>
 - [https://www.builder.io/blog/high-performance-personalization?ref=dailydev](https://www.builder.io/blog/high-performance-personalization?ref=dailydev)<br>
 - [https://building.nubank.com.br/from-micro-to-macro-scaling-front-ends/?ref=dailydev](https://building.nubank.com.br/from-micro-to-macro-scaling-front-ends/?ref=dailydev)<br>
+- [https://blog.meetbrackets.com/architectures-of-modern-front-end-applications-8859dfe6c12e](https://blog.meetbrackets.com/architectures-of-modern-front-end-applications-8859dfe6c12e)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
