@@ -313,6 +313,7 @@ Table of Contents
 - [https://www.builder.io/blog/high-performance-personalization?ref=dailydev](https://www.builder.io/blog/high-performance-personalization?ref=dailydev)<br>
 - [https://building.nubank.com.br/from-micro-to-macro-scaling-front-ends/?ref=dailydev](https://building.nubank.com.br/from-micro-to-macro-scaling-front-ends/?ref=dailydev)<br>
 - [https://blog.meetbrackets.com/architectures-of-modern-front-end-applications-8859dfe6c12e](https://blog.meetbrackets.com/architectures-of-modern-front-end-applications-8859dfe6c12e)<br>
+- [https://medium.com/@developer.minhaj/front-end-performance-optimization-key-techniques-for-faster-web-applications-7632fe2e821a](https://medium.com/@developer.minhaj/front-end-performance-optimization-key-techniques-for-faster-web-applications-7632fe2e821a)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
