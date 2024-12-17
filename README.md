@@ -314,6 +314,7 @@ Table of Contents
 - [https://building.nubank.com.br/from-micro-to-macro-scaling-front-ends/?ref=dailydev](https://building.nubank.com.br/from-micro-to-macro-scaling-front-ends/?ref=dailydev)<br>
 - [https://blog.meetbrackets.com/architectures-of-modern-front-end-applications-8859dfe6c12e](https://blog.meetbrackets.com/architectures-of-modern-front-end-applications-8859dfe6c12e)<br>
 - [https://medium.com/@developer.minhaj/front-end-performance-optimization-key-techniques-for-faster-web-applications-7632fe2e821a](https://medium.com/@developer.minhaj/front-end-performance-optimization-key-techniques-for-faster-web-applications-7632fe2e821a)<br>
+- [https://blog.stackademic.com/clean-frontend-architecture-tips-to-success-db0b159b7b38](https://blog.stackademic.com/clean-frontend-architecture-tips-to-success-db0b159b7b38)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
