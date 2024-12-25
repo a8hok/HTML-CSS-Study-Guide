@@ -359,6 +359,7 @@ Table of Contents
 
 ## Image Handling
 - [https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/](https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/)<br>
+- [https://requestmetrics.com/web-performance/high-performance-images/?ref=dailydev](https://requestmetrics.com/web-performance/high-performance-images/?ref=dailydev)<br>
 
 ## Figma
 - [https://www.freecodecamp.org/news/variables-in-figma-handbook/?ref=dailydev](https://www.freecodecamp.org/news/variables-in-figma-handbook/?ref=dailydev)<br>
