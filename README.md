@@ -319,6 +319,7 @@ Table of Contents
 - [https://medium.com/@hii_mohit/8-essential-tools-for-frontend-developers-in-2024-f2bdefe2f253](https://medium.com/@hii_mohit/8-essential-tools-for-frontend-developers-in-2024-f2bdefe2f253)<br>
 - [https://github.com/dypsilon/frontend-dev-bookmarks?ref=dailydev](https://github.com/dypsilon/frontend-dev-bookmarks?ref=dailydev)<br>
 - [https://blog.meetbrackets.com/architectures-of-modern-front-end-applications-8859dfe6c12e](https://blog.meetbrackets.com/architectures-of-modern-front-end-applications-8859dfe6c12e)<br>
+- [https://jsdev.space/frontend-trends-2025?ref=dailydev](https://jsdev.space/frontend-trends-2025?ref=dailydev)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
