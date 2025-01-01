@@ -321,6 +321,7 @@ Table of Contents
 - [https://blog.meetbrackets.com/architectures-of-modern-front-end-applications-8859dfe6c12e](https://blog.meetbrackets.com/architectures-of-modern-front-end-applications-8859dfe6c12e)<br>
 - [https://jsdev.space/frontend-trends-2025?ref=dailydev](https://jsdev.space/frontend-trends-2025?ref=dailydev)<br>
 - [https://dev.to/_ndeyefatoudiop/37-tips-from-a-senior-frontend-developer-251b?ref=dailydev](https://dev.to/_ndeyefatoudiop/37-tips-from-a-senior-frontend-developer-251b?ref=dailydev)<br>
+- [https://blog.stackademic.com/clean-frontend-architecture-tips-to-success-db0b159b7b38](https://blog.stackademic.com/clean-frontend-architecture-tips-to-success-db0b159b7b38)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
