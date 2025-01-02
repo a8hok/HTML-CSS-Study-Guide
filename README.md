@@ -120,6 +120,7 @@ Table of Contents
 - [https://ishadeed.com/article/new-viewport-units/](https://ishadeed.com/article/new-viewport-units/)<br>
 - [https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/](https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/)<br>
 - [https://www.freecodecamp.org/news/html-css-handbook-for-beginners/](https://www.freecodecamp.org/news/html-css-handbook-for-beginners/)<br>
+- [https://devdojo.com/arpit/i-made-12-css-tools-to-make-life-easier-for-developers](https://devdojo.com/arpit/i-made-12-css-tools-to-make-life-easier-for-developers)<br>
 
 
 ## CSS Flex Box
