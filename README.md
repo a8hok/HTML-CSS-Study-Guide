@@ -131,6 +131,7 @@ Table of Contents
 - [https://www.lambdatest.com/blog/css-box-model/](https://www.lambdatest.com/blog/css-box-model/)<br>
 - [https://www.freecodecamp.org/news/the-css-flexbox-handbook/](https://www.freecodecamp.org/news/the-css-flexbox-handbook/)<br>
 - [https://www.freecodecamp.org/news/flexbox-vs-grid-in-css/?ref=dailydev](https://www.freecodecamp.org/news/flexbox-vs-grid-in-css/?ref=dailydev)<br>
+- [https://css-tricks.com/snippets/css/a-guide-to-flexbox/?ref=dailydev](https://css-tricks.com/snippets/css/a-guide-to-flexbox/?ref=dailydev)<br>
 
 ## CSS Grid
 - [https://jst.hashnode.dev/css-grid-tutorial](https://jst.hashnode.dev/css-grid-tutorial)<br>
