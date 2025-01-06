@@ -380,6 +380,7 @@ Table of Contents
 
 ## CSS new features
 - [https://www.builder.io/blog/css-2024-has?ref=dailydev](https://www.builder.io/blog/css-2024-has?ref=dailydev)<br>
+- [https://medium.com/@karstenbiedermann/goodbye-sass-welcome-back-native-css-b3beb096d2b4](https://medium.com/@karstenbiedermann/goodbye-sass-welcome-back-native-css-b3beb096d2b4)<br>
 
 ## CSS Tools
 - [https://dev.to/lilxyzz/useful-css-tools-17bc?ref=dailydev](https://dev.to/lilxyzz/useful-css-tools-17bc?ref=dailydev)<br>
