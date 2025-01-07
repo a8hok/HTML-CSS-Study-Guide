@@ -387,6 +387,7 @@ Table of Contents
 - [https://dev.to/lilxyzz/useful-css-tools-17bc?ref=dailydev](https://dev.to/lilxyzz/useful-css-tools-17bc?ref=dailydev)<br>
 - [https://css-loaders.com/?ref=dailydev](https://css-loaders.com/?ref=dailydev)<br>
 - [https://flexboxfroggy.com/?ref=dailydev](https://flexboxfroggy.com/?ref=dailydev)<br>
+- [https://calltoinspiration.com/](https://calltoinspiration.com/)<br>
 
 ## HTMX
 - [https://dev.to/ethand91/simple-introduction-to-htmx-18fg?ref=dailydev](https://dev.to/ethand91/simple-introduction-to-htmx-18fg?ref=dailydev)<br>
