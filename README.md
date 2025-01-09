@@ -392,4 +392,7 @@ Table of Contents
 ## HTMX
 - [https://dev.to/ethand91/simple-introduction-to-htmx-18fg?ref=dailydev](https://dev.to/ethand91/simple-introduction-to-htmx-18fg?ref=dailydev)<br>
 
+## Browser Extentions
+- [https://www.traversymedia.com/blog/20-browser-extensions?ref=dailydev](https://www.traversymedia.com/blog/20-browser-extensions?ref=dailydev)<br>
+
 
