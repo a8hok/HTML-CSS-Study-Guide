@@ -189,6 +189,7 @@ Table of Contents
 - [https://dev.to/tailwindcss/100-react-dashboard-components-to-use-in-2024-3ked?ref=dailydev](https://dev.to/tailwindcss/100-react-dashboard-components-to-use-in-2024-3ked?ref=dailydev)<br>
 - [https://tailgrids.com/blog/tailwind-resources?ref=dailydev](https://tailgrids.com/blog/tailwind-resources?ref=dailydev)<br>
 - [https://nerdcave.com/tailwind-cheat-sheet?ref=dailydev](https://nerdcave.com/tailwind-cheat-sheet?ref=dailydev)<br>
+- [https://tailwindflex.com/?ref=dailydev](https://tailwindflex.com/?ref=dailydev)<br>
 
 ## Responsive
 - [https://css-tricks.com/fun-viewport-units/](https://css-tricks.com/fun-viewport-units/)<br>
