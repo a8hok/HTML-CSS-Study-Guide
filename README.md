@@ -398,4 +398,7 @@ Table of Contents
 ## Browser Extentions
 - [https://www.traversymedia.com/blog/20-browser-extensions?ref=dailydev](https://www.traversymedia.com/blog/20-browser-extensions?ref=dailydev)<br>
 
+## Important
+- [https://newsletter.techworld-with-milan.com/p/70-engineering-blogs-to-follow-in?ref=dailydev](https://newsletter.techworld-with-milan.com/p/70-engineering-blogs-to-follow-in?ref=dailydev)<br>
+
 
