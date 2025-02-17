@@ -332,6 +332,7 @@ Table of Contents
 - [https://blog.meetbrackets.com/architectures-of-modern-front-end-applications-8859dfe6c12e](https://blog.meetbrackets.com/architectures-of-modern-front-end-applications-8859dfe6c12e)<br>
 - [https://levelup.gitconnected.com/frontend-developer-roadmap-2025-the-complete-guide-b209a9c3a22b](https://levelup.gitconnected.com/frontend-developer-roadmap-2025-the-complete-guide-b209a9c3a22b)<br>
 - [https://dev.to/hadil/how-to-become-a-monster-problem-solver-the-ultimate-guide-4o38?ref=dailydev](https://dev.to/hadil/how-to-become-a-monster-problem-solver-the-ultimate-guide-4o38?ref=dailydev)<br>
+- [https://dev.to/buildwebcrumbs/creating-a-personal-brand-how-to-sell-yourself-as-a-developer-52po?ref=dailydev](https://dev.to/buildwebcrumbs/creating-a-personal-brand-how-to-sell-yourself-as-a-developer-52po?ref=dailydev)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
