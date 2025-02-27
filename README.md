@@ -334,6 +334,7 @@ Table of Contents
 - [https://dev.to/hadil/how-to-become-a-monster-problem-solver-the-ultimate-guide-4o38?ref=dailydev](https://dev.to/hadil/how-to-become-a-monster-problem-solver-the-ultimate-guide-4o38?ref=dailydev)<br>
 - [https://dev.to/buildwebcrumbs/creating-a-personal-brand-how-to-sell-yourself-as-a-developer-52po?ref=dailydev](https://dev.to/buildwebcrumbs/creating-a-personal-brand-how-to-sell-yourself-as-a-developer-52po?ref=dailydev)<br>
 - [https://blog.logrocket.com/guide-modern-frontend-architecture-patterns/?ref=dailydev](https://blog.logrocket.com/guide-modern-frontend-architecture-patterns/?ref=dailydev)<br>
+- [https://dev.to/bespoyasov/clean-architecture-on-frontend-4311?ref=dailydev](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311?ref=dailydev)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
