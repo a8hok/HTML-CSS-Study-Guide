@@ -336,6 +336,7 @@ Table of Contents
 - [https://dev.to/buildwebcrumbs/creating-a-personal-brand-how-to-sell-yourself-as-a-developer-52po?ref=dailydev](https://dev.to/buildwebcrumbs/creating-a-personal-brand-how-to-sell-yourself-as-a-developer-52po?ref=dailydev)<br>
 - [https://blog.logrocket.com/guide-modern-frontend-architecture-patterns/?ref=dailydev](https://blog.logrocket.com/guide-modern-frontend-architecture-patterns/?ref=dailydev)<br>
 - [https://dev.to/bespoyasov/clean-architecture-on-frontend-4311?ref=dailydev](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311?ref=dailydev)<br>
+- [https://medium.com/@letscodefuture/10-must-bookmark-open-source-projects-for-developers-c19e04e738ef](https://medium.com/@letscodefuture/10-must-bookmark-open-source-projects-for-developers-c19e04e738ef)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
