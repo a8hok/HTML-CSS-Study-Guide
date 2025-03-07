@@ -337,6 +337,7 @@ Table of Contents
 - [https://blog.logrocket.com/guide-modern-frontend-architecture-patterns/?ref=dailydev](https://blog.logrocket.com/guide-modern-frontend-architecture-patterns/?ref=dailydev)<br>
 - [https://dev.to/bespoyasov/clean-architecture-on-frontend-4311?ref=dailydev](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311?ref=dailydev)<br>
 - [https://medium.com/@letscodefuture/10-must-bookmark-open-source-projects-for-developers-c19e04e738ef](https://medium.com/@letscodefuture/10-must-bookmark-open-source-projects-for-developers-c19e04e738ef)<br>
+- [https://aidevdaily.com/20-github-repositories-every-developer-should-know/?ref=dailydev](https://aidevdaily.com/20-github-repositories-every-developer-should-know/?ref=dailydev)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
