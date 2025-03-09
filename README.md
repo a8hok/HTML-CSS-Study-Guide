@@ -413,4 +413,7 @@ Table of Contents
 ## DS and Algorithm
 - [https://zerotomastery.io/cheatsheets/data-structures-and-algorithms-cheat-sheet/?ref=dailydev](https://zerotomastery.io/cheatsheets/data-structures-and-algorithms-cheat-sheet/?ref=dailydev)<br>
 
+## Frontend Projects
+- [https://dev.to/kaja_uvais_a8691e947dd399/100-frontend-projects-to-level-up-your-skills-gkc?ref=dailydev](https://dev.to/kaja_uvais_a8691e947dd399/100-frontend-projects-to-level-up-your-skills-gkc?ref=dailydev)<br>
+
 
