@@ -360,6 +360,7 @@ Table of Contents
 
 ## Clean code
 - [https://www.freecodecamp.org/news/how-to-write-clean-code/](https://www.freecodecamp.org/news/how-to-write-clean-code/)<br>
+- [https://towardsdev.com/clean-code-8ec148fa8e22](https://towardsdev.com/clean-code-8ec148fa8e22)<br>
 
 ## Books
 - [https://levelup.gitconnected.com/10-best-coding-and-programming-interview-books-in-2023-7c90d158e51b](https://levelup.gitconnected.com/10-best-coding-and-programming-interview-books-in-2023-7c90d158e51b)<br>
