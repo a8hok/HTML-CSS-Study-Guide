@@ -338,6 +338,7 @@ Table of Contents
 - [https://dev.to/bespoyasov/clean-architecture-on-frontend-4311?ref=dailydev](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311?ref=dailydev)<br>
 - [https://medium.com/@letscodefuture/10-must-bookmark-open-source-projects-for-developers-c19e04e738ef](https://medium.com/@letscodefuture/10-must-bookmark-open-source-projects-for-developers-c19e04e738ef)<br>
 - [https://aidevdaily.com/20-github-repositories-every-developer-should-know/?ref=dailydev](https://aidevdaily.com/20-github-repositories-every-developer-should-know/?ref=dailydev)<br>
+- [https://levelup.gitconnected.com/frontend-developer-roadmap-2025-the-complete-guide-b209a9c3a22b](https://levelup.gitconnected.com/frontend-developer-roadmap-2025-the-complete-guide-b209a9c3a22b)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
