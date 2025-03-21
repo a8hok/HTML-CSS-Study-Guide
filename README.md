@@ -340,6 +340,7 @@ Table of Contents
 - [https://aidevdaily.com/20-github-repositories-every-developer-should-know/?ref=dailydev](https://aidevdaily.com/20-github-repositories-every-developer-should-know/?ref=dailydev)<br>
 - [https://levelup.gitconnected.com/frontend-developer-roadmap-2025-the-complete-guide-b209a9c3a22b](https://levelup.gitconnected.com/frontend-developer-roadmap-2025-the-complete-guide-b209a9c3a22b)<br>
 - [https://dev.to/_ndeyefatoudiop/37-tips-from-a-senior-frontend-developer-251b?ref=dailydev](https://dev.to/_ndeyefatoudiop/37-tips-from-a-senior-frontend-developer-251b?ref=dailydev)<br>
+- [https://newsletter.francofernando.com/p/the-shopify-checkout-architecture?ref=dailydev](https://newsletter.francofernando.com/p/the-shopify-checkout-architecture?ref=dailydev)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
