@@ -419,5 +419,6 @@ Table of Contents
 
 ## Frontend Projects
 - [https://dev.to/kaja_uvais_a8691e947dd399/100-frontend-projects-to-level-up-your-skills-gkc?ref=dailydev](https://dev.to/kaja_uvais_a8691e947dd399/100-frontend-projects-to-level-up-your-skills-gkc?ref=dailydev)<br>
+- [https://dev.to/hanzla-baig/150-free-apis-every-developer-needs-to-know-m9j?context=digest](https://dev.to/hanzla-baig/150-free-apis-every-developer-needs-to-know-m9j?context=digest)<br>
 
 
