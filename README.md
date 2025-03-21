@@ -421,5 +421,6 @@ Table of Contents
 - [https://dev.to/kaja_uvais_a8691e947dd399/100-frontend-projects-to-level-up-your-skills-gkc?ref=dailydev](https://dev.to/kaja_uvais_a8691e947dd399/100-frontend-projects-to-level-up-your-skills-gkc?ref=dailydev)<br>
 - [https://dev.to/hanzla-baig/150-free-apis-every-developer-needs-to-know-m9j?context=digest](https://dev.to/hanzla-baig/150-free-apis-every-developer-needs-to-know-m9j?context=digest)<br>
 - [https://dev.to/hanzla-baig/300-free-apis-every-developer-needs-to-know-2ohm?context=digest](https://dev.to/hanzla-baig/300-free-apis-every-developer-needs-to-know-2ohm?context=digest)<br>
+- [https://dev.to/balrajola/25-project-ideas-from-beginner-to-advanced-with-open-source-contributions-2mn7?context=digest](https://dev.to/balrajola/25-project-ideas-from-beginner-to-advanced-with-open-source-contributions-2mn7?context=digest)<br>
 
 
