@@ -422,5 +422,6 @@ Table of Contents
 - [https://dev.to/hanzla-baig/150-free-apis-every-developer-needs-to-know-m9j?context=digest](https://dev.to/hanzla-baig/150-free-apis-every-developer-needs-to-know-m9j?context=digest)<br>
 - [https://dev.to/hanzla-baig/300-free-apis-every-developer-needs-to-know-2ohm?context=digest](https://dev.to/hanzla-baig/300-free-apis-every-developer-needs-to-know-2ohm?context=digest)<br>
 - [https://dev.to/balrajola/25-project-ideas-from-beginner-to-advanced-with-open-source-contributions-2mn7?context=digest](https://dev.to/balrajola/25-project-ideas-from-beginner-to-advanced-with-open-source-contributions-2mn7?context=digest)<br>
+- [https://dev.to/kishansheth/200-project-ideas-from-beginner-to-advanced-with-open-source-contributions-3g6a?context=digest](https://dev.to/kishansheth/200-project-ideas-from-beginner-to-advanced-with-open-source-contributions-3g6a?context=digest)<br>
 
 
