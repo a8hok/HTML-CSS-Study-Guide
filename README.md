@@ -251,6 +251,7 @@ Table of Contents
 - [https://hackernoon.com/327-stories-to-learn-about-saas?source=rss](https://hackernoon.com/327-stories-to-learn-about-saas?source=rss)<br>
 - [https://medium.com/@rickmint/the-battle-of-the-css-preprocessors-scss-vs-less-vs-sass-a7b667be9c2f](https://medium.com/@rickmint/the-battle-of-the-css-preprocessors-scss-vs-less-vs-sass-a7b667be9c2f)<br>
 - [https://www.indiehackers.com/post/40-open-source-gems-to-replace-your-saas-subscriptions-f733b8e166?ref=dailydev](https://www.indiehackers.com/post/40-open-source-gems-to-replace-your-saas-subscriptions-f733b8e166?ref=dailydev)<br>
+- [https://www.indiehackers.com/post/40-open-source-gems-to-replace-your-saas-subscriptions-f733b8e166?ref=dailydev](https://www.indiehackers.com/post/40-open-source-gems-to-replace-your-saas-subscriptions-f733b8e166?ref=dailydev)<br>
 
 ## Projects
 - [https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/](https://www.freecodecamp.org/news/how-to-make-clickable-svg-map-html-css/)<br>
