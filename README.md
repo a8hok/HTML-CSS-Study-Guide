@@ -342,6 +342,7 @@ Table of Contents
 - [https://levelup.gitconnected.com/frontend-developer-roadmap-2025-the-complete-guide-b209a9c3a22b](https://levelup.gitconnected.com/frontend-developer-roadmap-2025-the-complete-guide-b209a9c3a22b)<br>
 - [https://dev.to/_ndeyefatoudiop/37-tips-from-a-senior-frontend-developer-251b?ref=dailydev](https://dev.to/_ndeyefatoudiop/37-tips-from-a-senior-frontend-developer-251b?ref=dailydev)<br>
 - [https://newsletter.francofernando.com/p/the-shopify-checkout-architecture?ref=dailydev](https://newsletter.francofernando.com/p/the-shopify-checkout-architecture?ref=dailydev)<br>
+- [https://dev.to/bespoyasov/clean-architecture-on-frontend-4311?ref=dailydev](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311?ref=dailydev)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
