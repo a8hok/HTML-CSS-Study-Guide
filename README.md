@@ -427,4 +427,7 @@ Table of Contents
 - [https://dev.to/kishansheth/200-project-ideas-from-beginner-to-advanced-with-open-source-contributions-3g6a?context=digest](https://dev.to/kishansheth/200-project-ideas-from-beginner-to-advanced-with-open-source-contributions-3g6a?context=digest)<br>
 - [https://dev.to/devluc/1500-free-html-website-templates-on-htmlrev-gk9?context=digest](https://dev.to/devluc/1500-free-html-website-templates-on-htmlrev-gk9?context=digest)<br>
 
+## Backend
+- [https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/?ref=dailydev](https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/?ref=dailydev)<br>
+
 
