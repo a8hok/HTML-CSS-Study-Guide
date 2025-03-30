@@ -192,6 +192,7 @@ Table of Contents
 - [https://nerdcave.com/tailwind-cheat-sheet?ref=dailydev](https://nerdcave.com/tailwind-cheat-sheet?ref=dailydev)<br>
 - [https://tailwindflex.com/?ref=dailydev](https://tailwindflex.com/?ref=dailydev)<br>
 - [https://www.youtube.com/watch?v=6biMWgD6_JY&t=2s](https://www.youtube.com/watch?v=6biMWgD6_JY&t=2s)<br>
+- [https://www.youtube.com/watch?v=6biMWgD6_JY](https://www.youtube.com/watch?v=6biMWgD6_JY)<br>
 
 ## Responsive
 - [https://css-tricks.com/fun-viewport-units/](https://css-tricks.com/fun-viewport-units/)<br>
