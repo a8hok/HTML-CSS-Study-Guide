@@ -345,6 +345,7 @@ Table of Contents
 - [https://dev.to/_ndeyefatoudiop/37-tips-from-a-senior-frontend-developer-251b?ref=dailydev](https://dev.to/_ndeyefatoudiop/37-tips-from-a-senior-frontend-developer-251b?ref=dailydev)<br>
 - [https://newsletter.francofernando.com/p/the-shopify-checkout-architecture?ref=dailydev](https://newsletter.francofernando.com/p/the-shopify-checkout-architecture?ref=dailydev)<br>
 - [https://dev.to/bespoyasov/clean-architecture-on-frontend-4311?ref=dailydev](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311?ref=dailydev)<br>
+- [https://dev.to/jhonifaber/introduction-to-event-driven-architecture-eda-3ioj?ref=dailydev](https://dev.to/jhonifaber/introduction-to-event-driven-architecture-eda-3ioj?ref=dailydev)<br>
 
 ## UX
 - [https://blog.openreplay.com/ux-best-practices-for-developers/](https://blog.openreplay.com/ux-best-practices-for-developers/)<br>
