@@ -109,6 +109,7 @@ Table of Contents
 - [https://developer.chrome.com/blog/css-text-wrap-pretty/?ref=dailydev](https://developer.chrome.com/blog/css-text-wrap-pretty/?ref=dailydev)<br>
 - [https://ishadeed.com/article/css-nesting/?ref=dailydev](https://ishadeed.com/article/css-nesting/?ref=dailydev)<br>
 - [https://css-triggers.com/?ref=dailydev](https://css-triggers.com/?ref=dailydev)<br>
+- [https://medium.com/@bruno.mazza87/5-new-amazing-css-properties-to-add-to-your-front-end-toolkit-in-2025-fe7cb528bcde](https://medium.com/@bruno.mazza87/5-new-amazing-css-properties-to-add-to-your-front-end-toolkit-in-2025-fe7cb528bcde)<br>
 
 
 ## CSS Resources
