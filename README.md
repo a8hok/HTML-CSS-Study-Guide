@@ -42,7 +42,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/javascript-dom-manipulation/](https://www.freecodecamp.org/news/javascript-dom-manipulation/)<br>
 - [https://www.freecodecamp.org/news/what-is-the-dom-explained-in-plain-english/](https://www.freecodecamp.org/news/what-is-the-dom-explained-in-plain-english/)<br>
 - [https://dev.to/ruppysuppy/deep-dive-into-how-web-browsers-work-with-illustrations-249b](https://dev.to/ruppysuppy/deep-dive-into-how-web-browsers-work-with-illustrations-249b)<br>
-- []()<br>
+- [https://medium.com/@alejoevilches/back-to-basics-i-how-the-dom-works-522fff5cf74f](https://medium.com/@alejoevilches/back-to-basics-i-how-the-dom-works-522fff5cf74f)<br>
 
 ## HTML
 - [https://code.tutsplus.com/tutorials/28-html5-features-tips-and-techniques-you-must-know--net-13520](https://code.tutsplus.com/tutorials/28-html5-features-tips-and-techniques-you-must-know--net-13520)<br>
