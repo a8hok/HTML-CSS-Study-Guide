@@ -110,6 +110,7 @@ Table of Contents
 - [https://ishadeed.com/article/css-nesting/?ref=dailydev](https://ishadeed.com/article/css-nesting/?ref=dailydev)<br>
 - [https://css-triggers.com/?ref=dailydev](https://css-triggers.com/?ref=dailydev)<br>
 - [https://medium.com/@bruno.mazza87/5-new-amazing-css-properties-to-add-to-your-front-end-toolkit-in-2025-fe7cb528bcde](https://medium.com/@bruno.mazza87/5-new-amazing-css-properties-to-add-to-your-front-end-toolkit-in-2025-fe7cb528bcde)<br>
+- [https://blog.logrocket.com/5-best-open-source-tools-cross-browser-css-testing/?ref=dailydev](https://blog.logrocket.com/5-best-open-source-tools-cross-browser-css-testing/?ref=dailydev)<br>
 
 
 ## CSS Resources
