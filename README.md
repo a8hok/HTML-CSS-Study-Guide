@@ -440,4 +440,7 @@ Table of Contents
 ## Backend
 - [https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/?ref=dailydev](https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/?ref=dailydev)<br>
 
+## Documentation
+- [https://8thlight.com/insights/mastering-technical-documentation?ref=dailydev](https://8thlight.com/insights/mastering-technical-documentation?ref=dailydev)<br>
+
 
