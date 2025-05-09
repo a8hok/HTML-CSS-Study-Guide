@@ -350,6 +350,7 @@ Table of Contents
 - [https://dev.to/bespoyasov/clean-architecture-on-frontend-4311?ref=dailydev](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311?ref=dailydev)<br>
 - [https://tympanus.net/codrops/2025/01/28/best-web-design-tools-2025/?ref=dailydev](https://tympanus.net/codrops/2025/01/28/best-web-design-tools-2025/?ref=dailydev)<br>
 - [https://dev.to/jhonifaber/introduction-to-event-driven-architecture-eda-3ioj?ref=dailydev](https://dev.to/jhonifaber/introduction-to-event-driven-architecture-eda-3ioj?ref=dailydev)<br>
+- [https://github.com/DhanushNehru/Ultimate-Web-Development-Resources?ref=dailydev](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources?ref=dailydev)<br>
 
 
 ## UX
