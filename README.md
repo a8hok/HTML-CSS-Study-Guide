@@ -438,6 +438,7 @@ Table of Contents
 - [https://dev.to/devluc/1500-free-html-website-templates-on-htmlrev-gk9?context=digest](https://dev.to/devluc/1500-free-html-website-templates-on-htmlrev-gk9?context=digest)<br>
 - [https://blog.amigoscode.com/p/7-architectural-patterns-you-must?ref=dailydev](https://blog.amigoscode.com/p/7-architectural-patterns-you-must?ref=dailydev)<br>
 - [https://dev.to/muhammadahsanmirza/frontend-isnt-just-ui-289d?ref=dailydev](https://dev.to/muhammadahsanmirza/frontend-isnt-just-ui-289d?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/](https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/)<br>
 
 ## Backend
 - [https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/?ref=dailydev](https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/?ref=dailydev)<br>
