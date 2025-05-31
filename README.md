@@ -351,6 +351,7 @@ Table of Contents
 - [https://tympanus.net/codrops/2025/01/28/best-web-design-tools-2025/?ref=dailydev](https://tympanus.net/codrops/2025/01/28/best-web-design-tools-2025/?ref=dailydev)<br>
 - [https://dev.to/jhonifaber/introduction-to-event-driven-architecture-eda-3ioj?ref=dailydev](https://dev.to/jhonifaber/introduction-to-event-driven-architecture-eda-3ioj?ref=dailydev)<br>
 - [https://github.com/DhanushNehru/Ultimate-Web-Development-Resources?ref=dailydev](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/best-aws-services-for-frontend-deployment/?ref=dailydev](https://www.freecodecamp.org/news/best-aws-services-for-frontend-deployment/?ref=dailydev)<br>
 
 
 ## UX
