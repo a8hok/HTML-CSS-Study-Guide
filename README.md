@@ -373,6 +373,7 @@ Table of Contents
 - [https://lume.land/plugins/lightningcss/?ref=dailydev](https://lume.land/plugins/lightningcss/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/css-frameworks-vs-custom-css/](https://www.freecodecamp.org/news/css-frameworks-vs-custom-css/)<br>
 - [https://refine.dev/blog/shadcn-ui/?ref=dailydev#what-is-shadcn](https://refine.dev/blog/shadcn-ui/?ref=dailydev#what-is-shadcn)<br>
+- [https://allshadcn.com/?ref=dailydev](https://allshadcn.com/?ref=dailydev)<br>
 
 ## Clean code
 - [https://www.freecodecamp.org/news/how-to-write-clean-code/](https://www.freecodecamp.org/news/how-to-write-clean-code/)<br>
