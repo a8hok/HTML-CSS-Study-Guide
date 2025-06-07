@@ -353,6 +353,7 @@ Table of Contents
 - [https://dev.to/jhonifaber/introduction-to-event-driven-architecture-eda-3ioj?ref=dailydev](https://dev.to/jhonifaber/introduction-to-event-driven-architecture-eda-3ioj?ref=dailydev)<br>
 - [https://github.com/DhanushNehru/Ultimate-Web-Development-Resources?ref=dailydev](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/best-aws-services-for-frontend-deployment/?ref=dailydev](https://www.freecodecamp.org/news/best-aws-services-for-frontend-deployment/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/the-front-end-monitoring-handbook/?ref=dailydev](https://www.freecodecamp.org/news/the-front-end-monitoring-handbook/?ref=dailydev)<br>
 
 
 ## UX
@@ -443,6 +444,7 @@ Table of Contents
 - [https://blog.amigoscode.com/p/7-architectural-patterns-you-must?ref=dailydev](https://blog.amigoscode.com/p/7-architectural-patterns-you-must?ref=dailydev)<br>
 - [https://dev.to/muhammadahsanmirza/frontend-isnt-just-ui-289d?ref=dailydev](https://dev.to/muhammadahsanmirza/frontend-isnt-just-ui-289d?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/](https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/)<br>
+
 
 ## Backend
 - [https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/?ref=dailydev](https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/?ref=dailydev)<br>
