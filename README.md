@@ -453,4 +453,7 @@ Table of Contents
 ## Documentation
 - [https://8thlight.com/insights/mastering-technical-documentation?ref=dailydev](https://8thlight.com/insights/mastering-technical-documentation?ref=dailydev)<br>
 
+## Modern CSS
+- [https://blog.logrocket.com/modern-css-carousels-no-javascript-required/?ref=dailydev](https://blog.logrocket.com/modern-css-carousels-no-javascript-required/?ref=dailydev)<br>
+
 
