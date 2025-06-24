@@ -355,6 +355,7 @@ Table of Contents
 - [https://github.com/DhanushNehru/Ultimate-Web-Development-Resources?ref=dailydev](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/best-aws-services-for-frontend-deployment/?ref=dailydev](https://www.freecodecamp.org/news/best-aws-services-for-frontend-deployment/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/the-front-end-monitoring-handbook/?ref=dailydev](https://www.freecodecamp.org/news/the-front-end-monitoring-handbook/?ref=dailydev)<br>
+- [https://crystallize.com/blog/frontend-performance-checklist?ref=dailydev](https://crystallize.com/blog/frontend-performance-checklist?ref=dailydev)<br>
 
 
 ## UX
