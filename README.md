@@ -111,7 +111,7 @@ Table of Contents
 - [https://css-triggers.com/?ref=dailydev](https://css-triggers.com/?ref=dailydev)<br>
 - [https://medium.com/@bruno.mazza87/5-new-amazing-css-properties-to-add-to-your-front-end-toolkit-in-2025-fe7cb528bcde](https://medium.com/@bruno.mazza87/5-new-amazing-css-properties-to-add-to-your-front-end-toolkit-in-2025-fe7cb528bcde)<br>
 - [https://blog.logrocket.com/5-best-open-source-tools-cross-browser-css-testing/?ref=dailydev](https://blog.logrocket.com/5-best-open-source-tools-cross-browser-css-testing/?ref=dailydev)<br>
-
+- [https://developer.chrome.com/blog/gap-decorations?ref=dailydev](https://developer.chrome.com/blog/gap-decorations?ref=dailydev)<br>
 
 ## CSS Resources
 - [https://dev.to/lissy93/super-useful-css-resources-1ba3](https://dev.to/lissy93/super-useful-css-resources-1ba3)<br>
