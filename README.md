@@ -458,4 +458,7 @@ Table of Contents
 ## Modern CSS
 - [https://blog.logrocket.com/modern-css-carousels-no-javascript-required/?ref=dailydev](https://blog.logrocket.com/modern-css-carousels-no-javascript-required/?ref=dailydev)<br>
 
+## Resources
+- [https://uihut.com/designs](https://uihut.com/designs)<br>
+
 
