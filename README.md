@@ -289,6 +289,7 @@ Table of Contents
 - [https://www.lambdatest.com/blog/bulma-css-framework/](https://www.lambdatest.com/blog/bulma-css-framework/)<br>
 - [https://lightningcss.dev/docs.html](https://lightningcss.dev/docs.html)<br>
 - [https://awesome-shadcn-ui.vercel.app/?ref=dailydev](https://awesome-shadcn-ui.vercel.app/?ref=dailydev)<br>
+- [https://blog.logrocket.com/6-css-animation-libraries-2025/?ref=dailydev](https://blog.logrocket.com/6-css-animation-libraries-2025/?ref=dailydev)<br>
 
 ## CSS Units
 - [https://dev.to/matthias/units-in-css-em-rem-pt-px-vw-vh-vmin-vmax-ex-ch-53l0?ref=dailydev](https://dev.to/matthias/units-in-css-em-rem-pt-px-vw-vh-vmin-vmax-ex-ch-53l0?ref=dailydev)<br>
@@ -379,6 +380,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/css-frameworks-vs-custom-css/](https://www.freecodecamp.org/news/css-frameworks-vs-custom-css/)<br>
 - [https://refine.dev/blog/shadcn-ui/?ref=dailydev#what-is-shadcn](https://refine.dev/blog/shadcn-ui/?ref=dailydev#what-is-shadcn)<br>
 - [https://allshadcn.com/?ref=dailydev](https://allshadcn.com/?ref=dailydev)<br>
+- []()
 
 ## Clean code
 - [https://www.freecodecamp.org/news/how-to-write-clean-code/](https://www.freecodecamp.org/news/how-to-write-clean-code/)<br>
@@ -447,7 +449,6 @@ Table of Contents
 - [https://blog.amigoscode.com/p/7-architectural-patterns-you-must?ref=dailydev](https://blog.amigoscode.com/p/7-architectural-patterns-you-must?ref=dailydev)<br>
 - [https://dev.to/muhammadahsanmirza/frontend-isnt-just-ui-289d?ref=dailydev](https://dev.to/muhammadahsanmirza/frontend-isnt-just-ui-289d?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/](https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/)<br>
-
 
 ## Backend
 - [https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/?ref=dailydev](https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/?ref=dailydev)<br>
