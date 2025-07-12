@@ -449,6 +449,7 @@ Table of Contents
 - [https://blog.amigoscode.com/p/7-architectural-patterns-you-must?ref=dailydev](https://blog.amigoscode.com/p/7-architectural-patterns-you-must?ref=dailydev)<br>
 - [https://dev.to/muhammadahsanmirza/frontend-isnt-just-ui-289d?ref=dailydev](https://dev.to/muhammadahsanmirza/frontend-isnt-just-ui-289d?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/](https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/)<br>
+- [https://newsletter.francofernando.com/p/how-to-tackle-coding-interviews?ref=dailydev](https://newsletter.francofernando.com/p/how-to-tackle-coding-interviews?ref=dailydev)<br>
 
 ## Backend
 - [https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/?ref=dailydev](https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/?ref=dailydev)<br>
