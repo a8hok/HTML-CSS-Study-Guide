@@ -417,6 +417,9 @@ Table of Contents
 ## Web accessibility
 - [https://www.freecodecamp.org/news/web-accessibility-best-practices/?ref=dailydev](https://www.freecodecamp.org/news/web-accessibility-best-practices/?ref=dailydev)<br>
 
+## Web Performance
+- [https://sia.codes/posts/web-perf-tips-2025/?ref=dailydev](https://sia.codes/posts/web-perf-tips-2025/?ref=dailydev)<br>
+
 ## CSS new features
 - [https://www.builder.io/blog/css-2024-has?ref=dailydev](https://www.builder.io/blog/css-2024-has?ref=dailydev)<br>
 - [https://medium.com/@karstenbiedermann/goodbye-sass-welcome-back-native-css-b3beb096d2b4](https://medium.com/@karstenbiedermann/goodbye-sass-welcome-back-native-css-b3beb096d2b4)<br>
