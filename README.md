@@ -199,6 +199,7 @@ Table of Contents
 - [https://www.youtube.com/watch?v=6biMWgD6_JY](https://www.youtube.com/watch?v=6biMWgD6_JY)<br>
 - [https://tailwindcss.504b.cc/?ref=dailydev](https://tailwindcss.504b.cc/?ref=dailydev)<br>
 - [https://flowbite.com/tools/tailwind-cheat-sheet/?ref=dailydev](https://flowbite.com/tools/tailwind-cheat-sheet/?ref=dailydev)<br>
+- [https://prismic.io/blog/tailwind-css-grid?ref=dailydev](https://prismic.io/blog/tailwind-css-grid?ref=dailydev)<br>
 
 ## Responsive
 - [https://css-tricks.com/fun-viewport-units/](https://css-tricks.com/fun-viewport-units/)<br>
