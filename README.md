@@ -409,6 +409,7 @@ Table of Contents
 
 ## Figma
 - [https://www.freecodecamp.org/news/variables-in-figma-handbook/?ref=dailydev](https://www.freecodecamp.org/news/variables-in-figma-handbook/?ref=dailydev)<br>
+- [https://www.builder.io/blog/claude-code-figma-mcp-server?ref=dailydev](https://www.builder.io/blog/claude-code-figma-mcp-server?ref=dailydev)<br>
 
 ## CSS container queries
 - [https://www.turing.com/kb/responsive-layouts-using-css-grid?ref=dailydev](https://www.turing.com/kb/responsive-layouts-using-css-grid?ref=dailydev)<br>
