@@ -383,6 +383,7 @@ Table of Contents
 - [https://refine.dev/blog/shadcn-ui/?ref=dailydev#what-is-shadcn](https://refine.dev/blog/shadcn-ui/?ref=dailydev#what-is-shadcn)<br>
 - [https://allshadcn.com/?ref=dailydev](https://allshadcn.com/?ref=dailydev)<br>
 - [https://github.com/birobirobiro/awesome-shadcn-ui?ref=dailydev](https://github.com/birobirobiro/awesome-shadcn-ui?ref=dailydev)<br>
+- [https://ui.spectrumhq.in/?ref=dailydev](https://ui.spectrumhq.in/?ref=dailydev)<br>
 
 ## Clean code
 - [https://www.freecodecamp.org/news/how-to-write-clean-code/](https://www.freecodecamp.org/news/how-to-write-clean-code/)<br>
