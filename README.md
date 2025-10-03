@@ -113,6 +113,7 @@ Table of Contents
 - [https://blog.logrocket.com/5-best-open-source-tools-cross-browser-css-testing/?ref=dailydev](https://blog.logrocket.com/5-best-open-source-tools-cross-browser-css-testing/?ref=dailydev)<br>
 - [https://developer.chrome.com/blog/gap-decorations?ref=dailydev](https://developer.chrome.com/blog/gap-decorations?ref=dailydev)<br>
 - [https://css-questions.com/](https://css-questions.com/)<br>
+- [https://css-tip.com/explore/alignment/?ref=dailydev](https://css-tip.com/explore/alignment/?ref=dailydev)<br>
 
 ## CSS Resources
 - [https://dev.to/lissy93/super-useful-css-resources-1ba3](https://dev.to/lissy93/super-useful-css-resources-1ba3)<br>
@@ -253,6 +254,7 @@ Table of Contents
 - [https://cloudfour.com/thinks/when-to-nest-css/?ref=dailydev](https://cloudfour.com/thinks/when-to-nest-css/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-use-css-variables/](https://www.freecodecamp.org/news/how-to-use-css-variables/)<br>
 - [https://kaderbiral26.medium.com/15-useful-css-properties-you-should-know-about-d924343d6f9c](https://kaderbiral26.medium.com/15-useful-css-properties-you-should-know-about-d924343d6f9c)<br>
+
 
 
 ## SASS
