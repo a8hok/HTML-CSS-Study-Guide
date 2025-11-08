@@ -432,6 +432,7 @@ Table of Contents
 - [https://medium.com/@karstenbiedermann/goodbye-sass-welcome-back-native-css-b3beb096d2b4](https://medium.com/@karstenbiedermann/goodbye-sass-welcome-back-native-css-b3beb096d2b4)<br>
 - [https://medium.com/@dimeloper/css-techniques-every-developer-should-know-in-2025-7524c1471a10](https://medium.com/@dimeloper/css-techniques-every-developer-should-know-in-2025-7524c1471a10)<br>
 - [https://thenewstack.io/css-finally-gets-inline-conditional-logic-with-new-if-function/?ref=dailydev](https://thenewstack.io/css-finally-gets-inline-conditional-logic-with-new-if-function/?ref=dailydev)<br>
+- [https://ishadeed.com/article/modern-css-section-layout/?ref=dailydev](https://ishadeed.com/article/modern-css-section-layout/?ref=dailydev)<br>
 
 ## CSS Tools
 - [https://dev.to/lilxyzz/useful-css-tools-17bc?ref=dailydev](https://dev.to/lilxyzz/useful-css-tools-17bc?ref=dailydev)<br>
