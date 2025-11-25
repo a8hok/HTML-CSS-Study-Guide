@@ -294,6 +294,7 @@ Table of Contents
 - [https://lightningcss.dev/docs.html](https://lightningcss.dev/docs.html)<br>
 - [https://awesome-shadcn-ui.vercel.app/?ref=dailydev](https://awesome-shadcn-ui.vercel.app/?ref=dailydev)<br>
 - [https://blog.logrocket.com/6-css-animation-libraries-2025/?ref=dailydev](https://blog.logrocket.com/6-css-animation-libraries-2025/?ref=dailydev)<br>
+- [https://better-auth-ui.com/?ref=dailydev](https://better-auth-ui.com/?ref=dailydev)<br>
 
 ## CSS Units
 - [https://dev.to/matthias/units-in-css-em-rem-pt-px-vw-vh-vmin-vmax-ex-ch-53l0?ref=dailydev](https://dev.to/matthias/units-in-css-em-rem-pt-px-vw-vh-vmin-vmax-ex-ch-53l0?ref=dailydev)<br>
