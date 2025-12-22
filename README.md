@@ -476,6 +476,7 @@ Table of Contents
 - [https://blog.logrocket.com/modern-css-carousels-no-javascript-required/?ref=dailydev](https://blog.logrocket.com/modern-css-carousels-no-javascript-required/?ref=dailydev)<br>
 - [https://prismic.io/blog/css-ui-features?ref=dailydev](https://prismic.io/blog/css-ui-features?ref=dailydev)<br>
 - [https://blog.nordcraft.com/css-has-become-too-powerful?ref=dailydev](https://blog.nordcraft.com/css-has-become-too-powerful?ref=dailydev)<br>
+- [https://chrome.dev/css-wrapped-2025/](https://chrome.dev/css-wrapped-2025/)<br>
 
 ## Resources
 - [https://uihut.com/designs](https://uihut.com/designs)<br>
