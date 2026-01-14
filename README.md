@@ -388,6 +388,7 @@ Table of Contents
 - [https://github.com/birobirobiro/awesome-shadcn-ui?ref=dailydev](https://github.com/birobirobiro/awesome-shadcn-ui?ref=dailydev)<br>
 - [https://ui.spectrumhq.in/?ref=dailydev](https://ui.spectrumhq.in/?ref=dailydev)<br>
 - [https://ui.devsloka.in/?ref=dailydev](https://ui.devsloka.in/?ref=dailydev)<br>
+- [https://dev.to/tahmidbintaslim/top-15-react-component-libraries-to-use-in-2026-33a4?ref=dailydev](https://dev.to/tahmidbintaslim/top-15-react-component-libraries-to-use-in-2026-33a4?ref=dailydev)<br>
 
 ## Clean code
 - [https://www.freecodecamp.org/news/how-to-write-clean-code/](https://www.freecodecamp.org/news/how-to-write-clean-code/)<br>
