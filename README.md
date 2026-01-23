@@ -389,6 +389,7 @@ Table of Contents
 - [https://ui.spectrumhq.in/?ref=dailydev](https://ui.spectrumhq.in/?ref=dailydev)<br>
 - [https://ui.devsloka.in/?ref=dailydev](https://ui.devsloka.in/?ref=dailydev)<br>
 - [https://dev.to/tahmidbintaslim/top-15-react-component-libraries-to-use-in-2026-33a4?ref=dailydev](https://dev.to/tahmidbintaslim/top-15-react-component-libraries-to-use-in-2026-33a4?ref=dailydev)<br>
+- [https://www.justfuckinguseshadcn.com/?ref=dailydev](https://www.justfuckinguseshadcn.com/?ref=dailydev)<br>
 
 ## Clean code
 - [https://www.freecodecamp.org/news/how-to-write-clean-code/](https://www.freecodecamp.org/news/how-to-write-clean-code/)<br>
