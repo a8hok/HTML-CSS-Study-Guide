@@ -256,7 +256,6 @@ Table of Contents
 - [https://kaderbiral26.medium.com/15-useful-css-properties-you-should-know-about-d924343d6f9c](https://kaderbiral26.medium.com/15-useful-css-properties-you-should-know-about-d924343d6f9c)<br>
 
 
-
 ## SASS
 - [https://towardsdev.com/sass-syntactically-awesome-stylesheets-e36891d173c1](https://towardsdev.com/sass-syntactically-awesome-stylesheets-e36891d173c1)<br>
 - [https://uxplanet.org/exploring-the-variables-in-scss-ae963881173d](https://uxplanet.org/exploring-the-variables-in-scss-ae963881173d)<br>
@@ -399,7 +398,6 @@ Table of Contents
 - [https://levelup.gitconnected.com/10-best-coding-and-programming-interview-books-in-2023-7c90d158e51b](https://levelup.gitconnected.com/10-best-coding-and-programming-interview-books-in-2023-7c90d158e51b)<br>
 - [https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br>
 
-
 ## Free project resources and code
 - [https://dribbble.com/shots/22514979-Free-Ecommerce-UI-Kit](https://dribbble.com/shots/22514979-Free-Ecommerce-UI-Kit)<br>
 - [https://mobirise.com/html-templates/](https://mobirise.com/html-templates/)<br>
@@ -467,6 +465,7 @@ Table of Contents
 - [https://dev.to/muhammadahsanmirza/frontend-isnt-just-ui-289d?ref=dailydev](https://dev.to/muhammadahsanmirza/frontend-isnt-just-ui-289d?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/](https://www.freecodecamp.org/news/cybersecurity-for-front-end-developers/)<br>
 - [https://newsletter.francofernando.com/p/how-to-tackle-coding-interviews?ref=dailydev](https://newsletter.francofernando.com/p/how-to-tackle-coding-interviews?ref=dailydev)<br>
+- [https://www.youtube.com/watch?v=bW58B6y81y8](https://www.youtube.com/watch?v=bW58B6y81y8)<br>
 
 ## Backend
 - [https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/?ref=dailydev](https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/?ref=dailydev)<br>
