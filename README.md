@@ -484,5 +484,6 @@ Table of Contents
 ## Resources
 - [https://uihut.com/designs](https://uihut.com/designs)<br>
 - [https://medium.com/@uihutofficial/10-best-free-design-resources-you-should-bookmark-47b629744d7a](https://medium.com/@uihutofficial/10-best-free-design-resources-you-should-bookmark-47b629744d7a)<br>
+- [https://github.com/ashishps1/awesome-engineering-articles?utm_source=substack&utm_medium=email](https://github.com/ashishps1/awesome-engineering-articles?utm_source=substack&utm_medium=email)<br>
 
 
