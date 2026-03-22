@@ -436,6 +436,7 @@ Table of Contents
 - [https://thenewstack.io/css-finally-gets-inline-conditional-logic-with-new-if-function/?ref=dailydev](https://thenewstack.io/css-finally-gets-inline-conditional-logic-with-new-if-function/?ref=dailydev)<br>
 - [https://ishadeed.com/article/modern-css-section-layout/?ref=dailydev](https://ishadeed.com/article/modern-css-section-layout/?ref=dailydev)<br>
 - [https://medium.com/@karstenbiedermann/the-css-if-function-has-arrived-152115ab2115](https://medium.com/@karstenbiedermann/the-css-if-function-has-arrived-152115ab2115)<br>
+- [https://www.youtube.com/watch?v=KGc5DYl6Lbs](https://www.youtube.com/watch?v=KGc5DYl6Lbs)<br>
 
 ## CSS Tools
 - [https://dev.to/lilxyzz/useful-css-tools-17bc?ref=dailydev](https://dev.to/lilxyzz/useful-css-tools-17bc?ref=dailydev)<br>
