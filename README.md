@@ -470,6 +470,7 @@ Table of Contents
 - [https://newsletter.francofernando.com/p/how-to-tackle-coding-interviews?ref=dailydev](https://newsletter.francofernando.com/p/how-to-tackle-coding-interviews?ref=dailydev)<br>
 - [https://www.youtube.com/watch?v=bW58B6y81y8](https://www.youtube.com/watch?v=bW58B6y81y8)<br>
 - [https://github.com/burakorkmez/html-css-js-projects](https://github.com/burakorkmez/html-css-js-projects)<br>
+- [https://dev.to/josephciullo/orchestrating-scalable-frontends-the-power-of-the-composition-root-3b0a?ref=dailydev](https://dev.to/josephciullo/orchestrating-scalable-frontends-the-power-of-the-composition-root-3b0a?ref=dailydev)<br>
 
 ## Backend
 - [https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/?ref=dailydev](https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/?ref=dailydev)<br>
