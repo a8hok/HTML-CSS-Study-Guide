@@ -155,6 +155,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/bento-grids-in-web-design/](https://www.freecodecamp.org/news/bento-grids-in-web-design/)<br>
 - [https://www.lambdatest.com/blog/css-grid-best-practices/?ref=dailydev](https://www.lambdatest.com/blog/css-grid-best-practices/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/what-is-css-subgrid/?ref=dailydev](https://www.freecodecamp.org/news/what-is-css-subgrid/?ref=dailydev)<br>
+- [https://vaadin.com/blog/css-performance-optimizations-for-grid](https://vaadin.com/blog/css-performance-optimizations-for-grid)<br>
 
 ## CSS Grid vs FlexBox
 - [https://webdesign.tutsplus.com/flexbox-vs-css-grid-which-should-you-use--cms-30184a?ref=dailydev](https://webdesign.tutsplus.com/flexbox-vs-css-grid-which-should-you-use--cms-30184a?ref=dailydev)<br>
