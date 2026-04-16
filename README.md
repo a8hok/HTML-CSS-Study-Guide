@@ -115,6 +115,7 @@ Table of Contents
 - [https://css-questions.com/](https://css-questions.com/)<br>
 - [https://css-tip.com/explore/alignment/?ref=dailydev](https://css-tip.com/explore/alignment/?ref=dailydev)<br>
 - [https://www.projectwallace.com/the-css-selection/2026?ref=dailydev](https://www.projectwallace.com/the-css-selection/2026?ref=dailydev)<br>
+- [https://css-tricks.com/selecting-a-date-range-in-css/?ref=dailydev](https://css-tricks.com/selecting-a-date-range-in-css/?ref=dailydev)<br>
 
 ## CSS Resources
 - [https://dev.to/lissy93/super-useful-css-resources-1ba3](https://dev.to/lissy93/super-useful-css-resources-1ba3)<br>
