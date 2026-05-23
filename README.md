@@ -129,6 +129,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/html-css-handbook-for-beginners/](https://www.freecodecamp.org/news/html-css-handbook-for-beginners/)<br>
 - [https://devdojo.com/arpit/i-made-12-css-tools-to-make-life-easier-for-developers](https://devdojo.com/arpit/i-made-12-css-tools-to-make-life-easier-for-developers)<br>
 - [https://prismic.io/blog/css-scroll-effects?ref=dailydev](https://prismic.io/blog/css-scroll-effects?ref=dailydev)<br>
+- [https://loading-ui.com/docs/components/pulsating-dots](https://loading-ui.com/docs/components/pulsating-dots)<br>
 
 
 ## CSS Flex Box
