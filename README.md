@@ -478,6 +478,7 @@ Table of Contents
 - [https://dev.to/josephciullo/orchestrating-scalable-frontends-the-power-of-the-composition-root-3b0a?ref=dailydev](https://dev.to/josephciullo/orchestrating-scalable-frontends-the-power-of-the-composition-root-3b0a?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/build-19-web-dev-projects-using-html-css-javascript/?ref=dailydev](https://www.freecodecamp.org/news/build-19-web-dev-projects-using-html-css-javascript/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/become-a-full-stack-developer-with-one-video/](https://www.freecodecamp.org/news/become-a-full-stack-developer-with-one-video/)<br>
+- [https://bespoyasov.me/blog/clean-architecture-on-frontend/?ref=dailydev](https://bespoyasov.me/blog/clean-architecture-on-frontend/?ref=dailydev)<br>
 
 ## Backend
 - [https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/?ref=dailydev](https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/?ref=dailydev)<br>
