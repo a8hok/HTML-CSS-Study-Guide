@@ -450,6 +450,7 @@ Table of Contents
 - [https://css-loaders.com/?ref=dailydev](https://css-loaders.com/?ref=dailydev)<br>
 - [https://flexboxfroggy.com/?ref=dailydev](https://flexboxfroggy.com/?ref=dailydev)<br>
 - [https://calltoinspiration.com/](https://calltoinspiration.com/)<br>
+- [https://css-generators.com/](https://css-generators.com/)<br>
 
 ## HTMX
 - [https://dev.to/ethand91/simple-introduction-to-htmx-18fg?ref=dailydev](https://dev.to/ethand91/simple-introduction-to-htmx-18fg?ref=dailydev)<br>
