@@ -444,6 +444,7 @@ Table of Contents
 - [https://www.youtube.com/watch?v=KGc5DYl6Lbs](https://www.youtube.com/watch?v=KGc5DYl6Lbs)<br>
 - [https://www.youtube.com/watch?v=ISHneblVJYI](https://www.youtube.com/watch?v=ISHneblVJYI)<br>
 - [https://css-tricks.com/the-state-of-css-centering-in-2026/?ref=dailydev](https://css-tricks.com/the-state-of-css-centering-in-2026/?ref=dailydev)<br>
+- [https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/?via=dailydev](https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/?via=dailydev)<br>
 
 ## CSS Tools
 - [https://dev.to/lilxyzz/useful-css-tools-17bc?ref=dailydev](https://dev.to/lilxyzz/useful-css-tools-17bc?ref=dailydev)<br>
