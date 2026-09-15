@@ -368,6 +368,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/the-front-end-monitoring-handbook/?ref=dailydev](https://www.freecodecamp.org/news/the-front-end-monitoring-handbook/?ref=dailydev)<br>
 - [https://crystallize.com/blog/frontend-performance-checklist?ref=dailydev](https://crystallize.com/blog/frontend-performance-checklist?ref=dailydev)<br>
 - [https://stackinsight.dev/blog/memory-leak-empirical-study/?ref=dailydev](https://stackinsight.dev/blog/memory-leak-empirical-study/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/freecodecamp-15-certifications-in-4-months-high-school/](https://www.freecodecamp.org/news/freecodecamp-15-certifications-in-4-months-high-school/)<br>
 
 
 ## UX
