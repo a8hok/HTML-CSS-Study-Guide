@@ -511,4 +511,7 @@ Table of Contents
 ## Translation 
 - [https://tolgee.io/blog/localization-basics-s01e01?via=dailydev](https://tolgee.io/blog/localization-basics-s01e01?via=dailydev)<br>
 
+## Free API
+- [https://dev.to/startupcafe/best-free-apis-for-developers-the-complete-categorized-list-27oc?via=dailydev](https://dev.to/startupcafe/best-free-apis-for-developers-the-complete-categorized-list-27oc?via=dailydev)<br>
+
 
