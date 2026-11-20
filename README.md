@@ -486,6 +486,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/become-a-full-stack-developer-with-one-video/](https://www.freecodecamp.org/news/become-a-full-stack-developer-with-one-video/)<br>
 - [https://bespoyasov.me/blog/clean-architecture-on-frontend/?ref=dailydev](https://bespoyasov.me/blog/clean-architecture-on-frontend/?ref=dailydev)<br>
 - [https://medium.com/@abhijeetgorhe8/html-css-javascript-the-three-skills-every-developer-must-master-before-chasing-frameworks-960eaf291041](https://medium.com/@abhijeetgorhe8/html-css-javascript-the-three-skills-every-developer-must-master-before-chasing-frameworks-960eaf291041)<br>
+- [https://devtools.tech/frontend-system-design](https://devtools.tech/frontend-system-design)<br>
 
 ## Backend
 - [https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/?ref=dailydev](https://www.freecodecamp.org/news/learn-api-fundamentals-and-architecture/?ref=dailydev)<br>
