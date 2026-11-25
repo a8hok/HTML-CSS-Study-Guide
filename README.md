@@ -370,6 +370,7 @@ Table of Contents
 - [https://crystallize.com/blog/frontend-performance-checklist?ref=dailydev](https://crystallize.com/blog/frontend-performance-checklist?ref=dailydev)<br>
 - [https://stackinsight.dev/blog/memory-leak-empirical-study/?ref=dailydev](https://stackinsight.dev/blog/memory-leak-empirical-study/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/freecodecamp-15-certifications-in-4-months-high-school/](https://www.freecodecamp.org/news/freecodecamp-15-certifications-in-4-months-high-school/)<br>
+- [https://www.freecodecamp.org/news/how-microfrontends-work-iframes-to-module-federation/](https://www.freecodecamp.org/news/how-microfrontends-work-iframes-to-module-federation/)<br>
 
 
 ## UX
@@ -514,5 +515,7 @@ Table of Contents
 
 ## Free API
 - [https://dev.to/startupcafe/best-free-apis-for-developers-the-complete-categorized-list-27oc?via=dailydev](https://dev.to/startupcafe/best-free-apis-for-developers-the-complete-categorized-list-27oc?via=dailydev)<br>
+
+
 
 
